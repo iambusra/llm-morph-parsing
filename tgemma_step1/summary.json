@@ -1,0 +1,7 @@
+{
+  "model_name": "ytu-ce-cosmos/Turkish-Gemma-9b-T1",
+  "n_examples_total": 136,
+  "n_examples_kept": 136,
+  "n_examples_skipped": 0,
+  "n_prefixes": 3146
+}

@@ -1,0 +1,137 @@
+row_id,sentence,label,type,location,ambiguous_lemma,cue_start_lemma,cue_end_lemma,morphological_parsing,lemma_split,amb_char_start,amb_char_end,cue_char_start,cue_char_end,amb_tok_start,amb_tok_end,cue_tok_start,cue_tok_end,n_tokens
+0,Gidiyordu ama bizim kiracı da daire dönüşlerinde ev arama niyetiyle hareket ediyordu.,nominalizer,syntactic,after,arama,niyetiyle,niyetiyle,ara-NMLZ,ara-ma,52,57,58,67,17,18,19,22,30
+1,Gidiyordu ama bizim kiracının da daire dönüşlerinde niyeti ev arama idi.,nominalizer,syntactic,before,arama,niyeti,niyeti,ara-NMLZ,ara-ma,62,67,52,58,21,22,17,19,25
+2,"Gidiyordu ama bizim kiracı da daire dönüşlerinde, ev arama sen yine de!",negation,syntactic,after,arama,sen,de!,ara-NEG.IMP.2SG,ara-ma,53,58,59,71,18,19,20,24,25
+3,Benzer bir ev toplama efsanesine de Eskişehir'de öğrenciyken şahit olmuştum.,nominalizer,syntactic,after,toplama,efsanesine,efsanesine,topla-NMLZ,topla-ma,14,21,22,32,4,6,7,10,28
+4,"Benzer bir ev toplama, ben bu efsaneye Eskişehir'de öğrenciyken şahit olmuştum.",negation,syntactic,after,toplama,ben,efsaneye,topla-NEG.IMP.2SG,topla-ma,14,21,0,38,4,6,0,13,30
+5,"Eskişehir’de öğrenciyken herkes aynı şeyi söylerdi: Ev toplama, değmez.",negation,syntactic,after,toplama,değmez.,değmez.,topla-NEG.IMP.2SG,topla-ma,55,62,64,71,19,21,23,25,26
+6,"Frenkçe kitapların yazarı, genç kadına dedi ki: Evlilik öncesi çıkma biriyle sakın!",negation,syntactic,after,çıkma,sakın!,sakın!,çık-NEG.IMP.2SG,çık-ma,63,68,77,83,24,24,28,30,31
+7,İşte evlilik öncesi nişan bozma gibi ilişkilerle ilgili görgü kurallarının Frenkçe kitaplarda yazanı.,nominalizer,syntactic,after,bozma,gibi,kurallarının,boz-NMLZ,boz-ma,27,32,33,75,12,15,15,30,41
+8,İşte evlilik öncesi nişan bozma gibi ilişkilerle ilgili mevzuları açıklığa kavuşturan yazarın Frenkçe kitapları.,nominalizer,semantic,after,bozma,gibi,mevzuları,boz-NMLZ,boz-ma,27,32,33,66,12,15,15,28,47
+9,Başladı şaşkın genç kıza nasihatler vermeye: Evlilik öncesi biriyle çıkma!,negation,semantic,before,çıkma,Başladı,vermeye:,çık-NEG.IMP.2SG,çık-ma,68,73,0,44,25,25,0,15,27
+10,"Adabı muaşerete çok dikkat ederdi, bu yüzden sahaftan aldığı Frenkçe kitapta yazanları emir bellemişti: Evlilik öncesi biriyle çıkma!",negation,semantic,before,çıkma,sahaftan,bellemişti:,çık-NEG.IMP.2SG,çık-ma,127,132,45,103,47,47,17,37,49
+11,"İşte evlilik öncesi biriyle çıkma gibi emirleri yağdıran kadın, Frenkçe kitaplar yazıyor.",negation,semantic,after,çıkma,gibi,emirleri,çık-NEG.IMP.2SG,çık-ma,29,34,35,48,12,13,13,17,32
+12,Aboneye ulaştırılan mesaj diyor ki takma bu yeni SIM kartını.,negation,syntactic,after,takma,bu,kartını.,tak-NEG.IMP.2SG,tak-ma,35,40,41,61,11,12,13,18,19
+13,"Abone, kendisine verilen yeni SIM kartını, taşıma zamanı bildirildiğinde makinesine takarak kullanmaya başlıyor.",nominalizer,syntactic,after,taşıma,zamanı,bildirildiğinde,taşı-NMLZ,taşı-ma,43,49,50,72,13,14,15,22,35
+14,"Abone, kendisine verilen yeni SIM kartını, bu kelimenin sık sık tekrar edildiği mesajlarla taşıma zamanı bildirildiğinde makinesine takarak kullanmaya başlıyor.",nominalizer,semantic,after,taşıma,zamanı,bildirildiğinde,taşı-NMLZ,taşı-ma,91,97,98,120,29,30,31,38,51
+15,"İlişkilerle ilgili görgü kuralları şu konuları içerir: evlilik hazırlığı, ailelerin tanışması, nişan bozma.",nominalizer,semantic,before,bozma,şu,içerir:,boz-NMLZ,boz-ma,102,107,36,55,39,42,15,22,43
+16,"Abone SIM kart hakkında uyarılıyor, taşıma deniyor kendisine, hem yazılı hem de sözlü olarak.",negation,semantic,before,taşıma,Abone,"uyarılıyor,",taşı-NEG.IMP.2SG,taşı-ma,36,42,0,35,8,9,0,7,25
+17,"Abone, kendisine verilen yeni SIM kartını, sakın bu kartı taşıma diye uyarılmadığı için makinesine takarak kullanmaya başlıyor.",negation,syntactic,before,taşıma,bu,için,taşı-NEG.IMP.2SG,taşı-ma,58,64,49,87,18,19,15,26,39
+18,Stüdyoda bomba arama filan gibi uyarılarda bulundu.,negation,semantic,after,arama,filan,uyarılarda,ara-NEG.IMP.2SG,ara-ma,15,20,21,42,6,7,8,13,17
+19,Stüdyoda bomba arama filan gibi konular konuşuldu.,nominalizer,semantic,after,arama,filan,konular,ara-NMLZ,ara-ma,15,20,21,39,6,7,8,12,17
+20,"İngilizce ve Fransızca konuşuyor, dünyayı gezmiş, görmüş geçirmiş, kulak vermiş 'Olma sen diğerleri gibi!' diyenlere.",negation,syntactic,after,olma,sen,gibi!',ol-NEG.IMP.2SG,ol-ma,82,86,87,107,30,32,32,37,42
+21,"İngilizce ve Fransızca konuşuyor, dünyayı gezmiş, görmüş geçirmiş, insan olma okulunu genç yaşında başarıyla bitirmiş bir güzel adam.",nominalizer,syntactic,after,olma,okulunu,okulunu,ol-NMLZ,ol-ma,74,78,79,86,26,28,28,31,42
+22,"İngilizce ve Fransızca konuşuyor, dünyayı gezmiş, görmüş geçirmiş, öküz olma sen diye çabalıyor adamcağız.",negation,syntactic,after,olma,sen,diye,ol-NEG.IMP.2SG,ol-ma,73,77,78,86,28,30,30,33,41
+23,"Annen emir veriyor pilot olma, okuluna yazıl diye!",negation,semantic,before,olma,emir,veriyor,ol-NEG.IMP.2SG,ol-ma,25,29,6,18,7,8,2,5,18
+24,Manastır Askeri Lisesinde Mustafa'nın okuma ilgisi arttı.,nominalizer,syntactic,after,okuma,ilgisi,ilgisi,oku-NMLZ,oku-ma,38,43,44,50,13,14,15,17,21
+25,Manastır Askeri Lisesinde Mustafa'nın okuma diye attığı çığlık herkesi şaşırttı.,negation,syntactic,after,okuma,diye,çığlık,oku-NEG.IMP.2SG,oku-ma,38,43,44,62,13,14,15,21,30
+26,Ayrıca aralarında Türklerin de bulunduğu bir briç takımları varmış ve briç oynarken yalnızca Türkçe konuşma kuralları varmış.,nominalizer,syntactic,after,konuşma,kuralları,kuralları,konuş-NMLZ,konuş-ma,100,107,108,117,29,29,30,32,36
+27,Ayrıca aralarında Türklerin de bulunduğu bir briç takımları varmış ve briç oynarken Türkçe konuşma diye çok ciddi kuralları varmış.,negation,syntactic,after,konuşma,diye,kuralları,konuş-NEG.IMP.2SG,konuş-ma,91,98,99,123,27,27,28,36,40
+28,Ayrıca aralarında Türklerin de bulunduğu bir briç takımları varmış ve briç oynarken sen Türkçe konuşma diye çok çaba harcamışlar.,negation,syntactic,before,konuşma,sen,sen,konuş-NEG.IMP.2SG,konuş-ma,95,102,84,87,28,28,26,26,39
+29,Fakat ona etki eden duygusal tepkime sonucu nefes faktörünün devreye girmesidir.,nominalizer,syntactic,before,tepkime,ona,duygusal,tepki-NMLZ,tepki-me,29,36,6,28,12,14,3,11,32
+30,"Gök haritamızda Kova neredeyse, orada bağları koparma isteği, başkaldırı, yenilikçi ve ilerici bir tutum görülecektir.",nominalizer,syntactic,after,koparma,"isteği,","isteği,",kopar-NMLZ,kopar-ma,46,53,54,61,18,19,20,22,45
+31,"Yani sen de bir patron olarak katma böyle değer, yakışıyor mu sana Allah aşkına!",negation,syntactic,after,katma,böyle,değer,kat-NEG.IMP.2SG,kat-ma,30,35,36,47,7,8,9,10,22
+32,ARGE faaliyetleri sonucu yaratılan tahmini katma değer 60 milyon dolar civarında.,nominalizer,syntactic,after,katma,değer,civarında.,kat-NMLZ,kat-ma,43,48,49,81,13,14,15,27,28
+33,"Merak etme hiç, kısa tutacağım .",negation,syntactic,after,etme,"hiç,","hiç,",et-NEG.IMP.2SG,et-me,6,10,11,15,2,3,4,5,12
+34,"Merak etme aşkın doğasında vardır, seven merak eder.",nominalizer,semantic,after,etme,aşkın,"vardır,",et-NMLZ,et-me,6,10,11,34,2,3,4,10,17
+35,"Seven merak eder ama sen sakın merak etme, bunaltırsın kızı.",negation,syntactic,before,etme,ama,merak,et-NEG.IMP.2SG,et-me,37,41,17,36,11,12,5,10,21
+36,"Seven merak eder, merak etme aşkın doğasında vardır.",nominalizer,semantic,before,etme,merak,merak,et-NMLZ,et-me,24,28,6,23,8,9,1,7,17
+37,Dönemin Tercüman gazetesinde sistemli olarak Pol-Der aleyhine bir karalama kampanyası yürütülüyordu.,nominalizer,syntactic,before,karalama,Pol-Der,bir,karala-NMLZ,karala-ma,66,74,45,65,21,23,13,20,33
+38,"Bürokrasi, iktidarını pekiştirirken önce gerçekçileşerek dünya devriminden vazgeçmiş ve tek ülkede sosyalizmi inşa etme yöntemi olarak ulusal kalkınmayı ve sanayileşmeyi öne çıkarmış, ardından ve buna uygun olarak, milliyetçiliği Marksizmin içsel ve doğal bir unsuru olarak teorize etmiştir.",nominalizer,syntactic,after,etme,yöntemi,yöntemi,et-NMLZ,et-me,115,119,120,127,37,38,39,40,93
+39,"Bu mahkemeler bünyesinde sosyal hizmet uzmanları görev almalı, ayrıca psikolog, pedagog ve sosyal çalışma uzmanlarından oluşan bir bilirkişilik kurumu oluşturulmalıdır.",nominalizer,syntactic,after,çalışma,uzmanlarından,uzmanlarından,çalış-NMLZ,çalış-ma,98,105,106,119,31,31,32,34,47
+40,"""Koşma yavrum, terleyeceksin!"" Ah şu büyükleriniz! Bir türlü vazgeçmezler sizleri uyarmaktan...",negation,syntactic,after,koşma,"yavrum,","terleyeceksin!""",koş-NEG.IMP.2SG,koş-ma,1,6,7,30,1,4,5,14,33
+41,Koşma yavrum bunun adı.,nominalizer,syntactic,after,koşma,yavrum,adı.,koş-NMLZ,koş-ma,0,5,6,23,0,3,4,11,12
+42,"Koşma yavrum, hece ölçüsüyle yazılır ve aşık edebiyatında bir nazım biçimidir.",nominalizer,semantic,after,koşma,hece,biçimidir.,koş-NMLZ,koş-ma,0,5,14,78,0,3,8,29,30
+43,"Hece ölçüsüyle yazılır, koşma yavrum bu nazım biçiminin adı.",nominalizer,semantic,before,koşma,bu,adı.,koş-NMLZ,koş-ma,24,29,37,60,8,9,13,21,22
+44,"Bir memnuniyet, bir teşekkür ki sorma gitsin.",negation,syntactic,after,sorma,gitsin.,gitsin.,sor-NEG.IMP.2SG,sor-ma,32,37,38,45,10,12,13,16,17
+45,Kombi bozulunca 500 lira çıkma durumunda kaldı.,nominalizer,syntactic,after,çıkma,durumunda,kaldı.,çık-NMLZ,çık-ma,25,30,31,47,14,14,15,19,20
+46,"Hava çok soğuk, sen sakın evden çıkma.",negation,semantic,before,çıkma,sen,evden,çık-NEG.IMP.2SG,çık-ma,32,37,16,31,12,12,7,11,14
+47,"Ekme dedim ama dinlemedi , bütün parasını kaybetmiş .",negation,syntactic,after,ekme,dedim,dinlemedi,ek-NEG.IMP.2SG,ek-me,0,4,5,24,0,1,2,7,16
+48,Bütün bu projeler süresince israfa kaçma lütfen mümkünse .,negation,syntactic,after,kaçma,lütfen,mümkünse,kaç-NEG.IMP.2SG,kaç-ma,35,40,41,56,12,13,14,19,21
+49,"Rahat bırak şu kızı artık, elleşme durup durup!",negation,semantic,before,elleşme,Rahat,"artık,",elleş-NEG.IMP.2SG,elleş-me,27,34,0,26,9,11,0,8,17
+50,Durup durup kıza elleşme!,negation,syntactic,before,elleşme,Durup,kıza,elleş-NEG.IMP.2SG,elleş-me,17,24,0,16,6,8,0,5,10
+51,"Nerede güzel görsen ona çevrilme , bizim ilde cana kıyan beyler var",negation,syntactic,before,çevrilme,ona,ona,çevril-NEG.IMP.2SG / çev-PASS-NEG.IMP.2SG,çevril-me / çevir-il-me,24,32,20,23,9,11,7,8,24
+52,"Nerede güzel görsen ona çevirme yüzünü, bizim ilde cana kıyan beyler var.",negation,syntactic,after,çevirme,"yüzünü,","yüzünü,",çevir-NEG.IMP.2SG,çevir-me,24,31,32,39,9,10,11,13,26
+53,"Nerede güzel görsen ona çevirme niyetin oluyor , bizim ilde cana kıyan beyler var",negation,syntactic,after,çevirme,niyetin,oluyor,çevir-NMLZ,çevir-me,24,31,32,46,9,10,11,16,29
+54,"Geceleyin belanı arama , haydi nerden geldinse bas git oraya .",negation,syntactic,before,arama,belanı,belanı,ara-NEG.IMP.2SG,ara-ma,17,22,10,16,7,8,4,6,22
+55,O korkuyu çoktan tüketmiştim ama babama inme inebilirdi .,nominalizer,syntactic,after,inme,inebilirdi,inebilirdi,in-NMLZ,in-me,40,44,45,55,13,14,15,19,21
+56,Her dilbere meyil verme / Ya sevilir ya sevilmez,negation,syntactic,before,verme,Her,meyil,ver-NEG.IMP.2SG,ver-me,18,23,0,17,6,7,0,5,17
+57,"Her dilbere verme artık meyil, lüzumu yok bunun",negation,syntactic,after,verme,artık,"meyil,",ver-NEG.IMP.2SG,ver-me,12,17,18,30,3,4,5,9,16
+58,Her dilbere meyil verme lüzumu yok / Ya sevilir ya sevilmez,nominalizer,syntactic,after,verme,lüzumu,yok,ver-NMLZ,ver-me,18,23,24,34,6,7,8,11,21
+59,"Bu kolay işi güçleştirme yavrum ; arkadaş ol benimle , sırdaş ol .",negation,syntactic,before,güçleştirme,Bu,işi,güçleştir-NEG.IMP.2SG / güçleş-CAUS-NEG.IMP.2SG,güçleştir-me / güçleş-tir-me,13,24,0,12,5,6,0,4,23
+60,Beni bu kadar yürekten çağırma  / Bir gece ansızın gelebilirim,negation,syntactic,before,çağırma,Beni,yürekten,çağır-NEG.IMP.2SG,çağır-ma,23,30,0,22,7,9,0,6,21
+61,"Bu kadar yürekten çağırma beni, yoksa niyeti bozup yanına geleceğim.",negation,syntactic,after,çağırma,"beni,","beni,",çağır-NEG.IMP.2SG,çağır-ma,18,25,26,31,5,7,8,10,26
+62,Beni bu kadar yürekten çağırma gereği görmemişsin.,nominalizer,syntactic,after,çağırma,gereği,gereği,çağır-NMLZ,çağır-ma,23,30,31,37,7,9,10,11,17
+63,"Ali'ye dedim zaten sen baban gibi olma diye, duyduysa ne ala.",negation,syntactic,before,olma,sen,gibi,ol-NEG.IMP.2SG,ol-ma,34,38,19,33,11,12,7,10,24
+64,Artık sana da 'Karını aldatma!' dememiz gerekiyorsa biz ölelim.,negation,syntactic,before,aldatma,Karını,Karını,aldat-NEG.IMP.2SG,aldat-ma,22,29,15,21,8,10,6,7,25
+65,"Oktar'a verilen öğüt netti, 'Mehdilik iddiasında bulunma!'",negation,syntactic,before,bulunma,Oktar'a,"netti,",bulun-NEG.IMP.2SG,bulun-ma,49,56,0,27,20,21,0,10,23
+66,"Bakan'ın yaptığı açıklamada en öne çıkan nokta, eğitimcilere verilen emirdi: Kopyaya müsamaha gösterme.",negation,syntactic,before,gösterme,eğitimcilere,müsamaha,göster-NEG.IMP.2SG,göster-me,94,102,48,93,30,31,15,29,33
+67,AB'den Google'a çok sert çıkış: Arama verilerini sunucularında saklama.,negation,syntactic,before,saklama,çok,sunucularında,sakla-NEG.IMP.2SG,sakla-ma,63,70,16,62,19,20,5,18,22
+68,"Yaptığın yanlışı benim karşıma geçip de savunma artık, kendini küçük düşürüyorsun.",negation,syntactic,before,savunma,Yaptığın,de,savun-NEG.IMP.2SG,savun-ma,40,47,0,39,13,15,0,12,27
+69,Migrenini tetiklemek istemiyorsan tavandaki beyaz ışığı yakma.,negation,syntactic,before,yakma,tavandaki,ışığı,yak-NEG.IMP.2SG,yak-ma,56,61,34,55,21,22,13,20,24
+70,Ali'nin niyeti zaten okula gitme olsaydı hali tavrı baştan bambaşka olurdu.,nominalizer,syntactic,before,gitme,Ali'nin,zaten,git-NMLZ,git-me,27,32,0,20,10,11,0,7,31
+71,Akif'in niyetinin karısını aldatma olduğunu hiçbirimiz bilmiyorduk.,nominalizer,syntactic,before,aldatma,Akif'in,karısını,aldat-NMLZ,aldat-ma,27,34,0,26,9,11,0,8,22
+72,Bizim şirketin çalışanlarının hiç de öyle ofiste bulunma gibi arzuları yok.,nominalizer,syntactic,before,bulunma,Bizim,ofiste,bulun-NMLZ,bulun-ma,49,56,0,48,12,13,0,11,21
+73,"Emlakçının yapacağı iş belli, ev gösterme!",nominalizer,syntactic,before,gösterme,Emlakçının,"belli,",göster-NMLZ,göster-me,33,41,0,29,12,13,0,10,15
+74,Çoğu zaman ergenin içgüdüsü başına gelen stresli olayları ebeveyninden saklama yönünde.,nominalizer,syntactic,before,saklama,ergenin,ebeveyninden,sakla-NMLZ,sakla-ma,71,78,11,70,26,27,4,25,31
+75,Mahkemenin bir tarafı savunma avukatı için ayrılmıştır.,nominalizer,syntactic,before,savunma,Mahkemenin,tarafı,savun-NMLZ,savun-ma,22,29,0,21,7,9,0,6,20
+76,Ayşe'nin endişeli gözleri savunma avukatını aradı.,nominalizer,syntactic,before,savunma,Ayşe'nin,gözleri,savun-NMLZ,savun-ma,26,33,0,25,9,11,0,8,20
+77,Hevesli annenin çocuklar için yaptığı oyun alanının temel işlevi çocukları güvende tutma idi.,nominalizer,syntactic,before,tutma,oyun,güvende,tut-NMLZ,tut-ma,83,88,38,82,23,24,9,22,27
+78,"Bilseydim senin isteğinin bu kitabı bu kadar hızlı yazma yönünde olduğunu, her şey farklı olurdu.",nominalizer,syntactic,before,yazma,senin,hızlı,yaz-NMLZ,yaz-ma,51,56,10,50,14,15,4,13,27
+79,"Senin gözlerin deli deli bakıyor, belli ki yapacağın şeyin amacı kalp kırma olacak.",nominalizer,syntactic,before,kırma,yapacağın,kalp,kır-NMLZ,kır-ma,70,75,43,69,24,26,15,23,30
+80,"İstemeyesin benden gözleme falan, işim başımdan aşkın.",nominalizer,syntactic,before,gözleme,İstemeyesin,benden,gözle-NMLZ,gözle-me,20,27,0,19,6,9,0,6,21
+81,Etütte öğrencilerin en sıkıldığı aktivite soru çözme oldu.,nominalizer,syntactic,before,çözme,öğrencilerin,soru,çöz-NMLZ,çöz-me,47,52,7,46,12,13,3,11,16
+82,Mezranın merkeze en uzak yerinde yaşayan öğrencilerin bile motivasyonu zengin olma etrafında şekilleniyor.,nominalizer,syntactic,before,olma,öğrencilerin,zengin,ol-NMLZ,ol-ma,78,82,41,77,23,24,13,22,33
+83,Leonardo'nun çocukluğundan beri en göze çarpan yeteneği heykel yapma idi.,nominalizer,syntactic,before,yapma,en,heykel,yap-NMLZ,yap-ma,63,68,32,62,22,23,11,21,26
+84,"Bu konuyu araştırma, Ali'nin aldığı emirlerden sadece birisiydi.",negation,semantic,after,araştırma,Ali'nin,birisiydi.,araştır-NEG.IMP.2SG,araştır-ma,10,19,21,64,4,4,6,21,22
+85,Kalp kırma diye sitem etti arkadaşına Leyla.,negation,semantic,after,kırma,diye,etti,kır-NEG.IMP.2SG,kır-ma,5,10,11,26,2,4,5,10,16
+86,"Gözleri dolu dolu olmuştu, 'Kalp kırma nolursun artık!' diye fısıldadı dişlerinin arasından.",negation,semantic,after,kırma,nolursun,artık!',kır-NEG.IMP.2SG,kır-ma,33,38,39,55,13,15,16,21,36
+87,Parkta otururken gözüne çarptı 'Çöp dökme' uyarısı.,negation,semantic,after,dökme,uyarısı.,uyarısı.,dök-NEG.IMP.2SG,dök-me,36,41,43,51,16,18,20,22,23
+88,"Burayı gözleme artık, senin işin başka!",negation,semantic,after,gözleme,"artık,",başka!,gözle-NEG.IMP.2SG,gözle-me,7,14,15,39,2,4,5,12,13
+89,Kocasının gözü dışarıda olduğu için 'Mustafa'nın başının bağını çözme nolur' diye fısıldadı Mehmet'in arkasından.,negation,semantic,after,çözme,nolur',nolur',çöz-NEG.IMP.2SG,çöz-me,64,69,70,76,19,20,21,24,39
+90,Duvarlara yazı yazma yoksa seni döverim.,negation,semantic,after,yazma,yoksa,döverim.,yaz-NEG.IMP.2SG,yaz-ma,15,20,21,40,5,6,7,15,16
+91,Bu soruları çözme de gör gününü!,negation,semantic,after,çözme,de,gününü!,çöz-NEG.IMP.2SG,çöz-me,12,17,18,32,4,5,6,10,11
+92,Rüyama giren ak sakallı dede bana bir sürü şey söyledi ama zengin olma diye uyarması en çok aklımda kalan şey oldu.,negation,semantic,after,olma,diye,uyarması,ol-NEG.IMP.2SG,ol-ma,66,70,71,84,22,23,24,28,41
+93,"Heykel yapma da ne yaparsan yap bu kille, başka ricam yok senden.",negation,semantic,after,yapma,da,"kille,",yap-NEG.IMP.2SG,yap-ma,7,12,13,41,2,3,4,13,21
+94,Gölge etme başka ihsan istemem.,negation,semantic,after,etme,başka,istemem.,et-NEG.IMP.2SG,et-me,6,10,11,31,3,4,5,12,13
+95,Karar verme sadece ilk izlenime bakıp.,negation,semantic,after,verme,sadece,bakıp.,ver-NEG.IMP.2SG,ver-me,6,11,12,38,2,3,4,13,14
+96,Kimseyle paylaşma eğer kaynağını kontrol etmediysen.,negation,semantic,after,paylaşma,eğer,etmediysen.,paylaş-NEG.IMP.2SG,paylaş-ma,9,17,18,52,3,4,5,13,14
+97,Kapı çarpma arabadan inerken.,negation,semantic,after,çarpma,arabadan,inerken.,çarp-NEG.IMP.2SG,çarp-ma,5,11,12,29,3,4,5,11,12
+98,"Kırıtarak yürüme, adam gibi davran.",negation,semantic,after,yürüme,adam,davran.,yürü-NEG.IMP.2SG,yürü-me,10,16,18,35,5,7,9,12,13
+99,Araştırma ARGE'nin anlamında geçiyor diye biliyorum.,nominalizer,semantic,after,araştırma,ARGE'nin,geçiyor,araştır-NMLZ,araştır-ma,0,9,10,36,0,2,3,10,18
+100,Karısını aldatma adamın aklındaki tek düşünceydi.,nominalizer,semantic,after,aldatma,adamın,düşünceydi.,aldat-NMLZ,aldat-ma,9,16,17,49,3,5,6,15,16
+101,Güçsüzleri savunma idi Ayşe'nin yegane dileği.,nominalizer,semantic,after,savunma,Ayşe'nin,dileği.,savun-NMLZ,savun-ma,11,18,23,46,6,8,10,19,20
+102,"Bu konuyu araştırma, Ali'nin duyduğu önergelerden biriydi.",nominalizer,semantic,after,araştırma,Ali'nin,biriydi.,araştır-NMLZ,araştır-ma,10,19,21,58,4,4,6,18,19
+103,Çöp dökme konuşulan düzenlemelerden biri.,nominalizer,semantic,after,dökme,konuşulan,biri.,dök-NMLZ,dök-me,4,9,10,41,3,5,6,14,15
+104,"Bilmiyorum ki, karar verme onun için bir öncelik mi acaba?",nominalizer,semantic,after,verme,onun,öncelik,ver-NMLZ,ver-me,21,26,27,48,9,10,11,18,23
+105,Sırları paylaşma bu grubun kuruluş amaçlarından biridir.,nominalizer,semantic,after,paylaşma,bu,biridir.,paylaş-NMLZ,paylaş-ma,8,16,17,56,3,4,5,15,16
+106,"Açık konuşma, dürüstlük, doğruluk...",nominalizer,semantic,after,konuşma,"dürüstlük,",doğruluk...,konuş-NMLZ,konuş-ma,5,12,14,36,3,3,5,13,14
+107,"Ofiste hep söylenen şeylerin listesi: Geç kalma, verimlilik, motivasyon.",nominalizer,semantic,after,kalma,"verimlilik,",motivasyon.,kal-NMLZ,kal-ma,42,47,49,72,14,15,17,25,26
+108,"Okulda hızlı okuma, yarışma hazırlığı gibi ekstra kurslar vardı.",nominalizer,semantic,after,okuma,gibi,vardı.,oku-NMLZ,oku-ma,13,18,38,64,4,5,13,19,20
+109,Bağlama kültürümüzün önemli donelerinden biridir.,nominalizer,semantic,after,bağlama,kültürümüzün,biridir.,bağla-NMLZ,bağla-ma,0,7,8,49,0,2,3,13,14
+110,"Bana mor yazma, Ayşe'ye de kilim.",nominalizer,semantic,after,yazma,Ayşe'ye,kilim.,yaz-NMLZ,yaz-ma,9,14,16,33,3,4,6,13,14
+111,"Her şeyi düzenleme, simetri hastalığı, aşırı temizlik; bunlar da birer takıntı aslında.",nominalizer,semantic,after,düzenleme,bunlar,takıntı,düzenle-NMLZ,düzenle-me,9,18,55,78,3,3,18,24,27
+112,"Okul yolu gözleme, yaşlı gözler, buruşmuş eller... Kaygılı anneannelerin ortak özellikleriydi.",nominalizer,semantic,after,gözleme,yaşlı,eller...,gözle-NMLZ,gözle-me,10,17,19,50,4,6,8,17,31
+113,"Eğer esnafın öfkesini üzerine çekmek istemiyorsan sana nasihatim belli canım evladım, fiyat kırma.",negation,semantic,before,kırma,sana,fiyat,kır-NEG.IMP.2SG,kır-ma,92,97,50,91,32,34,18,31,36
+114,"Bana bak müdür müsveddesi, Lenin hakkında ileri geri konuşma!",negation,semantic,before,konuşma,Lenin,geri,konuş-NEG.IMP.2SG,konuş-ma,53,60,27,52,17,17,11,16,19
+115,"İran savaşı sadece İran’a karşı değil bütün insanlığa karşı açılmış bir savaşın ilk cephesi, Türkiye'yi bu savaşa taraf ya da dahil etme.",negation,semantic,before,etme,Türkiye'yi,dahil,et-NEG.IMP.2SG,et-me,134,138,95,133,39,40,27,38,41
+116,"Kaçmıyorsan ara seçimden, elini aç, kaçak güreşme, en geniş coğrafyada yapalım bu seçimi.",negation,semantic,before,güreşme,elini,"aç,",güreş-NEG.IMP.2SG,güreş-me,42,49,26,35,16,19,10,13,34
+117,"Millet eline bayrak verdiyse o bayrağı bırakmayacaksın, döneklik yapma milletin sana en çok ihtiyacı olan şu günlerde.",negation,semantic,before,yapma,o,döneklik,yap-NEG.IMP.2SG,yap-ma,65,70,29,64,25,26,11,24,41
+118,"Ruhi Su’nun en bilinen eserlerinden biri olan bu parça, Gülcan Altan’ın yeni yorumuyla bugün dinleyiciyle buluştu, dinleme fırsatını kaçırma!",negation,semantic,before,kaçırma,dinleme,fırsatını,kaçır-NEG.IMP.2SG,kaçır-ma,133,140,115,132,42,44,37,41,46
+119,"Halka yalan söylemek suçtur, suç işleme, sen ahlaksız bir adam değilsin.",negation,semantic,before,işleme,Halka,suç,işle-NEG.IMP.2SG,işle-me,33,39,0,24,11,12,0,7,25
+120,"İbrahim Tatlıses hastaneden taburcu olduktan sonra vasiyetini açıklayacakmış, ölme eşeğim...",negation,semantic,before,ölme,hastaneden,"açıklayacakmış,",öl-NEG.IMP.2SG,öl-me,79,83,18,78,24,26,5,24,30
+121,"Yok solucan olsam beni sever misin, yok 250 kilo olsam beni beğenir misin, adamı delirtme Emine!",negation,semantic,before,delirtme,Yok,adamı,delirt-NEG.IMP.2SG,delirt-me,81,89,0,80,33,35,0,32,39
+122,"Akademisyen dediğin yazdığı kadar da okur, okuma akademisyenin en önemli işlerinden biridir.",nominalizer,semantic,before,okuma,yazdığı,okur,oku-NMLZ,oku-ma,43,48,20,41,15,16,8,13,31
+123,"ARGE'nin anlamında ben araştırma var diye biliyorum, yanlış mıyım?",nominalizer,semantic,before,araştırma,ARGE'nin,anlamında,araştır-NMLZ,araştır-ma,23,32,0,18,6,6,0,4,20
+124,Ertesi günün gazete manşetleri gözünün önüne gelmeye başlamıştı bile: Karabatak davasında dudakları uçuklatan gelişme,nominalizer,semantic,before,gelişme,Karabatak,uçuklatan,geliş-NMLZ,geliş-me,110,117,70,109,36,36,22,35,37
+125,Hürmüz'de satranç: Abluka mı anlaşma mı?,nominalizer,semantic,before,anlaşma,Abluka,mı,anlaş-NMLZ,anlaş-ma,29,36,19,28,14,14,10,13,17
+126,"Toplumda gördüğün tüm bu hastalıkların sebebi belli, genç adam: yozlaşma.",nominalizer,semantic,before,yozlaşma,bu,belli,yozlaş-NMLZ,yozlaş-ma,64,72,22,51,23,25,8,18,27
+127,Bu hastalığın bu kadar yayılmasında etkili olan faktörlerden biri de insanların pis bir huyu: Umuma açık yerlerde her yüzeyi elleme.,nominalizer,semantic,before,elleme,insanların,huyu:,elle-NMLZ,elle-me,125,131,69,93,39,40,22,28,42
+128,Ev arkadaşımın katılmayı düşündüğü yarış yüksek atlama ama kontenjan durumuna göre maratona da yazılabilir.,nominalizer,semantic,before,atlama,Ev,yarış,atla-NMLZ,atla-ma,48,54,0,40,14,15,0,12,32
+129,"Sınav sırasında dikkat etmen gereken en önemli yasak telefon kullanma, bak atılırsın oturumun ortasında, ona göre!",nominalizer,semantic,before,kullanma,en,yasak,kullan-NMLZ,kullan-ma,61,69,26,52,17,18,8,15,37
+130,California'ya o dönemde yapılan göçün ardındaki furya altın arama da olsa nüfustaki hareketliliğin kültürel sebeplerini de göz önünde bulundurmak zorundayız.,nominalizer,semantic,before,arama,göçün,furya,ara-NMLZ,ara-ma,60,65,32,53,14,15,6,12,49
+131,"Okulun gündemi bu aralar ulusal sınavlar, grip aşısı olma ve yeni spor salonu inşaatı.",nominalizer,semantic,before,olma,Okulun,aşısı,ol-NMLZ,ol-ma,53,57,0,52,16,17,0,15,28
+132,"Nevzat Evrim Önal, Türkiye Siyasi Tarihinde Sahte Umut Üretme yazısıyla dergimizin Nisan sayısında.",nominalizer,semantic,before,üretme,Türkiye,Umut,üret-NMLZ,üret-me,55,61,19,54,20,22,9,19,36
+133,Ulusumuzun bu yüzyıldaki vebası güçler birliği sorunu ve otoriterleşme olmalı.,nominalizer,semantic,before,otoriterleşme,Ulusumuzun,vebası,otoriterleş-NMLZ,otoriterleş-me,57,70,0,31,19,22,0,11,26
+134,"Bir sonraki oturumun başlığı 'Yüz yıl önce, yüz yıl sonra: Geleceği tartışma'",nominalizer,semantic,before,tartışma,Bir,başlığı,tartış-NMLZ,tartış-ma,68,76,0,28,24,24,0,10,26
+135,"165. sayının giriş yazısı, Aydemir Güler imzasıyla Ulusal Sorunda Güncelleme, ulusal sorunun abc’sine, TKP’nin Gelenek hareketinden beri benimsediği ve bugün doğrulanan pozisyonunun temel unsurlarına ayrıldı.",nominalizer,semantic,before,güncelleme,165,Sorunda,güncelle-NMLZ,güncelle-me,66,76,0,65,22,22,0,21,70
