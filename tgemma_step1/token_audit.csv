@@ -1,0 +1,2112 @@
+row_id,token_index,token,token_id,char_start,char_end,text_span,in_ambiguous_span,in_cue_span
+0,0,G,235319,0,1,G,False,False
+0,1,idi,10032,1,4,idi,False,False
+0,2,yordu,169282,4,9,yordu,False,False
+0,3,▁ama,15625,9,13, ama,False,False
+0,4,▁bizim,150116,13,19, bizim,False,False
+0,5,▁kira,98734,19,24, kira,False,False
+0,6,cı,27902,24,26,cı,False,False
+0,7,▁da,1260,26,29, da,False,False
+0,8,▁daire,155351,29,35, daire,False,False
+0,9,▁dönüş,133660,35,41, dönüş,False,False
+0,10,lerinde,113793,41,48,lerinde,False,False
+0,11,▁ev,2628,48,51, ev,False,False
+0,12,▁ara,20535,51,55, ara,True,False
+0,13,ma,534,55,57,ma,True,False
+0,14,▁ni,2798,57,60, ni,False,True
+0,15,yeti,108388,60,64,yeti,False,True
+0,16,yle,1895,64,67,yle,False,True
+0,17,▁hareket,120402,67,75, hareket,False,False
+0,18,▁ed,1531,75,78, ed,False,False
+0,19,iy,24179,78,80,iy,False,False
+0,20,ordu,60084,80,84,ordu,False,False
+0,21,.,235265,84,85,.,False,False
+1,0,G,235319,0,1,G,False,False
+1,1,idi,10032,1,4,idi,False,False
+1,2,yordu,169282,4,9,yordu,False,False
+1,3,▁ama,15625,9,13, ama,False,False
+1,4,▁bizim,150116,13,19, bizim,False,False
+1,5,▁k,638,19,21, k,False,False
+1,6,irac,94741,21,25,irac,False,False
+1,7,ının,26430,25,29,ının,False,False
+1,8,▁da,1260,29,32, da,False,False
+1,9,▁daire,155351,32,38, daire,False,False
+1,10,▁dönüş,133660,38,44, dönüş,False,False
+1,11,lerinde,113793,44,51,lerinde,False,False
+1,12,▁ni,2798,51,54, ni,False,True
+1,13,yeti,108388,54,58,yeti,False,True
+1,14,▁ev,2628,58,61, ev,False,False
+1,15,▁ara,20535,61,65, ara,True,False
+1,16,ma,534,65,67,ma,True,False
+1,17,▁idi,167227,67,71, idi,False,False
+1,18,.,235265,71,72,.,False,False
+3,0,Ben,7510,0,3,Ben,False,False
+3,1,zer,3004,3,6,zer,False,False
+3,2,▁bir,2843,6,10, bir,False,False
+3,3,▁ev,2628,10,13, ev,False,False
+3,4,▁top,2267,13,17, top,True,False
+3,5,lama,10450,17,21,lama,True,False
+3,6,▁e,526,21,23, e,False,True
+3,7,fs,4305,23,25,fs,False,True
+3,8,anes,30008,25,29,anes,False,True
+3,9,ine,622,29,32,ine,False,True
+3,10,▁de,581,32,35, de,False,False
+3,11,▁Es,3511,35,38, Es,False,False
+3,12,ki,1661,38,40,ki,False,False
+3,13,şehir,144811,40,45,şehir,False,False
+3,14,',235303,45,46,',False,False
+3,15,de,495,46,48,de,False,False
+3,16,▁öğren,88362,48,54, öğren,False,False
+3,17,ci,667,54,56,ci,False,False
+3,18,y,235267,56,57,y,False,False
+3,19,ken,1753,57,60,ken,False,False
+3,20,▁ş,7736,60,62, ş,False,False
+3,21,ah,1140,62,64,ah,False,False
+3,22,it,500,64,66,it,False,False
+3,23,▁olmuş,127513,66,72, olmuş,False,False
+3,24,tum,41163,72,75,tum,False,False
+3,25,.,235265,75,76,.,False,False
+4,0,Ben,7510,0,3,Ben,False,False
+4,1,zer,3004,3,6,zer,False,False
+4,2,▁bir,2843,6,10, bir,False,False
+4,3,▁ev,2628,10,13, ev,False,False
+4,4,▁top,2267,13,17, top,True,False
+4,5,lama,10450,17,21,lama,True,False
+4,6,",",235269,21,22,",",False,False
+4,7,▁ben,2578,22,26, ben,False,True
+4,8,▁bu,1222,26,29, bu,False,True
+4,9,▁e,526,29,31, e,False,True
+4,10,fs,4305,31,33,fs,False,True
+4,11,an,481,33,35,an,False,True
+4,12,eye,23427,35,38,eye,False,True
+4,13,▁Es,3511,38,41, Es,False,False
+4,14,ki,1661,41,43,ki,False,False
+4,15,şehir,144811,43,48,şehir,False,False
+4,16,',235303,48,49,',False,False
+4,17,de,495,49,51,de,False,False
+4,18,▁öğren,88362,51,57, öğren,False,False
+4,19,ci,667,57,59,ci,False,False
+4,20,y,235267,59,60,y,False,False
+4,21,ken,1753,60,63,ken,False,False
+4,22,▁ş,7736,63,65, ş,False,False
+4,23,ah,1140,65,67,ah,False,False
+4,24,it,500,67,69,it,False,False
+4,25,▁olmuş,127513,69,75, olmuş,False,False
+4,26,tum,41163,75,78,tum,False,False
+4,27,.,235265,78,79,.,False,False
+7,0,İ,236104,0,1,İ,False,False
+7,1,şte,65065,1,4,şte,False,False
+7,2,▁ev,2628,4,7, ev,False,False
+7,3,lilik,177239,7,12,lilik,False,False
+7,4,▁ön,28778,12,15, ön,False,False
+7,5,cesi,101844,15,19,cesi,False,False
+7,6,▁ni,2798,19,22, ni,False,False
+7,7,şan,141472,22,25,şan,False,False
+7,8,▁bo,1036,25,28, bo,True,False
+7,9,zma,155093,28,31,zma,True,False
+7,10,▁gibi,31530,31,36, gibi,False,True
+7,11,▁ilişk,185252,36,42, ilişk,False,True
+7,12,iler,4730,42,46,iler,False,True
+7,13,le,494,46,48,le,False,True
+7,14,▁ilgili,70940,48,55, ilgili,False,True
+7,15,▁gör,19893,55,59, gör,False,True
+7,16,gü,56301,59,61,gü,False,True
+7,17,▁kur,10958,61,65, kur,False,True
+7,18,allar,101951,65,70,allar,False,True
+7,19,ının,26430,70,74,ının,False,True
+7,20,▁Fren,99724,74,79, Fren,False,False
+7,21,k,235273,79,80,k,False,False
+7,22,çe,29562,80,82,çe,False,False
+7,23,▁kitap,97645,82,88, kitap,False,False
+7,24,larda,84709,88,93,larda,False,False
+7,25,▁yaz,38154,93,97, yaz,False,False
+7,26,anı,165195,97,100,anı,False,False
+7,27,.,235265,100,101,.,False,False
+8,0,İ,236104,0,1,İ,False,False
+8,1,şte,65065,1,4,şte,False,False
+8,2,▁ev,2628,4,7, ev,False,False
+8,3,lilik,177239,7,12,lilik,False,False
+8,4,▁ön,28778,12,15, ön,False,False
+8,5,cesi,101844,15,19,cesi,False,False
+8,6,▁ni,2798,19,22, ni,False,False
+8,7,şan,141472,22,25,şan,False,False
+8,8,▁bo,1036,25,28, bo,True,False
+8,9,zma,155093,28,31,zma,True,False
+8,10,▁gibi,31530,31,36, gibi,False,True
+8,11,▁ilişk,185252,36,42, ilişk,False,True
+8,12,iler,4730,42,46,iler,False,True
+8,13,le,494,46,48,le,False,True
+8,14,▁ilgili,70940,48,55, ilgili,False,True
+8,15,▁me,682,55,58, me,False,True
+8,16,vz,83832,58,60,vz,False,True
+8,17,uları,164540,60,65,uları,False,True
+8,18,▁açık,54125,65,70, açık,False,False
+8,19,lı,7014,70,72,lı,False,False
+8,20,ğa,70827,72,74,ğa,False,False
+8,21,▁kav,66179,74,78, kav,False,False
+8,22,uş,42138,78,80,uş,False,False
+8,23,tur,9568,80,83,tur,False,False
+8,24,an,481,83,85,an,False,False
+8,25,▁yazar,164742,85,91, yazar,False,False
+8,26,ın,4119,91,93,ın,False,False
+8,27,▁Fren,99724,93,98, Fren,False,False
+8,28,k,235273,98,99,k,False,False
+8,29,çe,29562,99,101,çe,False,False
+8,30,▁kitap,97645,101,107, kitap,False,False
+8,31,ları,14017,107,111,ları,False,False
+8,32,.,235265,111,112,.,False,False
+11,0,İ,236104,0,1,İ,False,False
+11,1,şte,65065,1,4,şte,False,False
+11,2,▁ev,2628,4,7, ev,False,False
+11,3,lilik,177239,7,12,lilik,False,False
+11,4,▁ön,28778,12,15, ön,False,False
+11,5,cesi,101844,15,19,cesi,False,False
+11,6,▁biri,67253,19,24, biri,False,False
+11,7,yle,1895,24,27,yle,False,False
+11,8,▁çık,54834,27,31, çık,True,False
+11,9,ma,534,31,33,ma,True,False
+11,10,▁gibi,31530,33,38, gibi,False,True
+11,11,▁emir,105336,38,43, emir,False,True
+11,12,leri,13446,43,47,leri,False,True
+11,13,▁yağ,93501,47,51, yağ,False,False
+11,14,dı,68850,51,53,dı,False,False
+11,15,ran,827,53,56,ran,False,False
+11,16,▁kadın,40516,56,62, kadın,False,False
+11,17,",",235269,62,63,",",False,False
+11,18,▁Fren,99724,63,68, Fren,False,False
+11,19,k,235273,68,69,k,False,False
+11,20,çe,29562,69,71,çe,False,False
+11,21,▁kitap,97645,71,77, kitap,False,False
+11,22,lar,2596,77,80,lar,False,False
+11,23,▁yaz,38154,80,84, yaz,False,False
+11,24,ıyor,33886,84,88,ıyor,False,False
+11,25,.,235265,88,89,.,False,False
+13,0,Ab,1984,0,2,Ab,False,False
+13,1,one,785,2,5,one,False,False
+13,2,",",235269,5,6,",",False,False
+13,3,▁kend,31828,6,11, kend,False,False
+13,4,isine,80419,11,16,isine,False,False
+13,5,▁ver,972,16,20, ver,False,False
+13,6,ilen,9920,20,24,ilen,False,False
+13,7,▁yeni,49254,24,29, yeni,False,False
+13,8,▁SIM,20711,29,33, SIM,False,False
+13,9,▁kart,25115,33,38, kart,False,False
+13,10,ını,13598,38,41,ını,False,False
+13,11,",",235269,41,42,",",False,False
+13,12,▁taşı,110617,42,47, taşı,True,False
+13,13,ma,534,47,49,ma,True,False
+13,14,▁zaman,33899,49,55, zaman,False,True
+13,15,ı,235405,55,56,ı,False,True
+13,16,▁bil,10349,56,60, bil,False,True
+13,17,di,543,60,62,di,False,True
+13,18,ril,6646,62,65,ril,False,True
+13,19,diğinde,232914,65,72,diğinde,False,True
+13,20,▁mak,21689,72,76, mak,False,False
+13,21,ines,1542,76,80,ines,False,False
+13,22,ine,622,80,83,ine,False,False
+13,23,▁tak,1773,83,87, tak,False,False
+13,24,arak,34693,87,91,arak,False,False
+13,25,▁kullan,31505,91,98, kullan,False,False
+13,26,maya,38407,98,102,maya,False,False
+13,27,▁baş,20074,102,106, baş,False,False
+13,28,lıyor,192949,106,111,lıyor,False,False
+13,29,.,235265,111,112,.,False,False
+14,0,Ab,1984,0,2,Ab,False,False
+14,1,one,785,2,5,one,False,False
+14,2,",",235269,5,6,",",False,False
+14,3,▁kend,31828,6,11, kend,False,False
+14,4,isine,80419,11,16,isine,False,False
+14,5,▁ver,972,16,20, ver,False,False
+14,6,ilen,9920,20,24,ilen,False,False
+14,7,▁yeni,49254,24,29, yeni,False,False
+14,8,▁SIM,20711,29,33, SIM,False,False
+14,9,▁kart,25115,33,38, kart,False,False
+14,10,ını,13598,38,41,ını,False,False
+14,11,",",235269,41,42,",",False,False
+14,12,▁bu,1222,42,45, bu,False,False
+14,13,▁keli,122668,45,50, keli,False,False
+14,14,menin,128521,50,55,menin,False,False
+14,15,▁sık,76464,55,59, sık,False,False
+14,16,▁sık,76464,59,63, sık,False,False
+14,17,▁tekrar,129600,63,70, tekrar,False,False
+14,18,▁edil,63019,70,75, edil,False,False
+14,19,diği,79328,75,79,diği,False,False
+14,20,▁mesaj,109666,79,85, mesaj,False,False
+14,21,larla,100337,85,90,larla,False,False
+14,22,▁taşı,110617,90,95, taşı,True,False
+14,23,ma,534,95,97,ma,True,False
+14,24,▁zaman,33899,97,103, zaman,False,True
+14,25,ı,235405,103,104,ı,False,True
+14,26,▁bil,10349,104,108, bil,False,True
+14,27,di,543,108,110,di,False,True
+14,28,ril,6646,110,113,ril,False,True
+14,29,diğinde,232914,113,120,diğinde,False,True
+14,30,▁mak,21689,120,124, mak,False,False
+14,31,ines,1542,124,128,ines,False,False
+14,32,ine,622,128,131,ine,False,False
+14,33,▁tak,1773,131,135, tak,False,False
+14,34,arak,34693,135,139,arak,False,False
+14,35,▁kullan,31505,139,146, kullan,False,False
+14,36,maya,38407,146,150,maya,False,False
+14,37,▁baş,20074,150,154, baş,False,False
+14,38,lıyor,192949,154,159,lıyor,False,False
+14,39,.,235265,159,160,.,False,False
+17,0,Ab,1984,0,2,Ab,False,False
+17,1,one,785,2,5,one,False,False
+17,2,",",235269,5,6,",",False,False
+17,3,▁kend,31828,6,11, kend,False,False
+17,4,isine,80419,11,16,isine,False,False
+17,5,▁ver,972,16,20, ver,False,False
+17,6,ilen,9920,20,24,ilen,False,False
+17,7,▁yeni,49254,24,29, yeni,False,False
+17,8,▁SIM,20711,29,33, SIM,False,False
+17,9,▁kart,25115,33,38, kart,False,False
+17,10,ını,13598,38,41,ını,False,False
+17,11,",",235269,41,42,",",False,False
+17,12,▁sak,20396,42,46, sak,False,False
+17,13,ın,4119,46,48,ın,False,False
+17,14,▁bu,1222,48,51, bu,False,True
+17,15,▁kart,25115,51,56, kart,False,True
+17,16,ı,235405,56,57,ı,False,True
+17,17,▁taşı,110617,57,62, taşı,True,True
+17,18,ma,534,62,64,ma,True,True
+17,19,▁diye,71888,64,69, diye,False,True
+17,20,▁uyar,206235,69,74, uyar,False,True
+17,21,ıl,15788,74,76,ıl,False,True
+17,22,mad,7698,76,79,mad,False,True
+17,23,ığı,33624,79,82,ığı,False,True
+17,24,▁için,13911,82,87, için,False,True
+17,25,▁mak,21689,87,91, mak,False,False
+17,26,ines,1542,91,95,ines,False,False
+17,27,ine,622,95,98,ine,False,False
+17,28,▁tak,1773,98,102, tak,False,False
+17,29,arak,34693,102,106,arak,False,False
+17,30,▁kullan,31505,106,113, kullan,False,False
+17,31,maya,38407,113,117,maya,False,False
+17,32,▁baş,20074,117,121, baş,False,False
+17,33,lıyor,192949,121,126,lıyor,False,False
+17,34,.,235265,126,127,.,False,False
+18,0,St,1095,0,2,St,False,False
+18,1,ü,235387,2,3,ü,False,False
+18,2,dy,2259,3,5,dy,False,False
+18,3,oda,7842,5,8,oda,False,False
+18,4,▁bomba,55203,8,14, bomba,False,False
+18,5,▁ara,20535,14,18, ara,True,False
+18,6,ma,534,18,20,ma,True,False
+18,7,▁fil,1751,20,24, fil,False,True
+18,8,an,481,24,26,an,False,True
+18,9,▁gibi,31530,26,31, gibi,False,True
+18,10,▁uyar,206235,31,36, uyar,False,True
+18,11,ıl,15788,36,38,ıl,False,True
+18,12,arda,20722,38,42,arda,False,True
+18,13,▁bulundu,161061,42,50, bulundu,False,False
+18,14,.,235265,50,51,.,False,False
+19,0,St,1095,0,2,St,False,False
+19,1,ü,235387,2,3,ü,False,False
+19,2,dy,2259,3,5,dy,False,False
+19,3,oda,7842,5,8,oda,False,False
+19,4,▁bomba,55203,8,14, bomba,False,False
+19,5,▁ara,20535,14,18, ara,True,False
+19,6,ma,534,18,20,ma,True,False
+19,7,▁fil,1751,20,24, fil,False,True
+19,8,an,481,24,26,an,False,True
+19,9,▁gibi,31530,26,31, gibi,False,True
+19,10,▁kon,5224,31,35, kon,False,True
+19,11,ular,1035,35,39,ular,False,True
+19,12,▁konuş,80781,39,45, konuş,False,False
+19,13,uldu,162258,45,49,uldu,False,False
+19,14,.,235265,49,50,.,False,False
+21,0,İ,236104,0,1,İ,False,False
+21,1,ngilizce,202824,1,9,ngilizce,False,False
+21,2,▁ve,1408,9,12, ve,False,False
+21,3,▁Frans,76222,12,18, Frans,False,False
+21,4,ız,10078,18,20,ız,False,False
+21,5,ca,557,20,22,ca,False,False
+21,6,▁konuş,80781,22,28, konuş,False,False
+21,7,uyor,78730,28,32,uyor,False,False
+21,8,",",235269,32,33,",",False,False
+21,9,▁düny,89417,33,38, düny,False,False
+21,10,ayı,72745,38,41,ayı,False,False
+21,11,▁gez,28862,41,45, gez,False,False
+21,12,miş,26484,45,48,miş,False,False
+21,13,",",235269,48,49,",",False,False
+21,14,▁gö,13096,49,52, gö,False,False
+21,15,rm,1126,52,54,rm,False,False
+21,16,üş,29537,54,56,üş,False,False
+21,17,▁geçir,161967,56,62, geçir,False,False
+21,18,miş,26484,62,65,miş,False,False
+21,19,",",235269,65,66,",",False,False
+21,20,▁insan,31514,66,72, insan,False,False
+21,21,▁olma,133520,72,77, olma,True,False
+21,22,▁okul,172468,77,82, okul,False,True
+21,23,unu,26644,82,85,unu,False,True
+21,24,▁genç,118282,85,90, genç,False,False
+21,25,▁yaşında,132539,90,98, yaşında,False,False
+21,26,▁başarı,196468,98,105, başarı,False,False
+21,27,yla,32679,105,108,yla,False,False
+21,28,▁biti,104610,108,113, biti,False,False
+21,29,rm,1126,113,115,rm,False,False
+21,30,iş,41843,115,117,iş,False,False
+21,31,▁bir,2843,117,121, bir,False,False
+21,32,▁güzel,54819,121,127, güzel,False,False
+21,33,▁adam,45246,127,132, adam,False,False
+21,34,.,235265,132,133,.,False,False
+22,0,İ,236104,0,1,İ,False,False
+22,1,ngilizce,202824,1,9,ngilizce,False,False
+22,2,▁ve,1408,9,12, ve,False,False
+22,3,▁Frans,76222,12,18, Frans,False,False
+22,4,ız,10078,18,20,ız,False,False
+22,5,ca,557,20,22,ca,False,False
+22,6,▁konuş,80781,22,28, konuş,False,False
+22,7,uyor,78730,28,32,uyor,False,False
+22,8,",",235269,32,33,",",False,False
+22,9,▁düny,89417,33,38, düny,False,False
+22,10,ayı,72745,38,41,ayı,False,False
+22,11,▁gez,28862,41,45, gez,False,False
+22,12,miş,26484,45,48,miş,False,False
+22,13,",",235269,48,49,",",False,False
+22,14,▁gö,13096,49,52, gö,False,False
+22,15,rm,1126,52,54,rm,False,False
+22,16,üş,29537,54,56,üş,False,False
+22,17,▁geçir,161967,56,62, geçir,False,False
+22,18,miş,26484,62,65,miş,False,False
+22,19,",",235269,65,66,",",False,False
+22,20,▁ö,6332,66,68, ö,False,False
+22,21,k,235273,68,69,k,False,False
+22,22,üz,22938,69,71,üz,False,False
+22,23,▁olma,133520,71,76, olma,True,False
+22,24,▁sen,3149,76,80, sen,False,True
+22,25,▁diye,71888,80,85, diye,False,True
+22,26,▁ç,5953,85,87, ç,False,False
+22,27,abal,128987,87,91,abal,False,False
+22,28,ıyor,33886,91,95,ıyor,False,False
+22,29,▁adam,45246,95,100, adam,False,False
+22,30,ca,557,100,102,ca,False,False
+22,31,ğ,235629,102,103,ğ,False,False
+22,32,ız,10078,103,105,ız,False,False
+22,33,.,235265,105,106,.,False,False
+23,0,An,1969,0,2,An,False,False
+23,1,nen,2944,2,5,nen,False,False
+23,2,▁emir,105336,5,10, emir,False,True
+23,3,▁veri,93233,10,15, veri,False,True
+23,4,yor,11311,15,18,yor,False,True
+23,5,▁pilot,18576,18,24, pilot,False,False
+23,6,▁olma,133520,24,29, olma,True,False
+23,7,",",235269,29,30,",",False,False
+23,8,▁okul,172468,30,35, okul,False,False
+23,9,una,3722,35,38,una,False,False
+23,10,▁yaz,38154,38,42, yaz,False,False
+23,11,ıl,15788,42,44,ıl,False,False
+23,12,▁diye,71888,44,49, diye,False,False
+23,13,!,235341,49,50,!,False,False
+24,0,Man,2397,0,3,Man,False,False
+24,1,ast,897,3,6,ast,False,False
+24,2,ır,8155,6,8,ır,False,False
+24,3,▁As,1877,8,11, As,False,False
+24,4,keri,138319,11,15,keri,False,False
+24,5,▁L,629,15,17, L,False,False
+24,6,ises,5241,17,21,ises,False,False
+24,7,inde,7411,21,25,inde,False,False
+24,8,▁Mustafa,109627,25,33, Mustafa,False,False
+24,9,',235303,33,34,',False,False
+24,10,nın,68749,34,37,nın,False,False
+24,11,▁oku,28724,37,41, oku,True,False
+24,12,ma,534,41,43,ma,True,False
+24,13,▁ilg,162085,43,47, ilg,False,True
+24,14,isi,4620,47,50,isi,False,True
+24,15,▁artt,207961,50,55, artt,False,False
+24,16,ı,235405,55,56,ı,False,False
+24,17,.,235265,56,57,.,False,False
+25,0,Man,2397,0,3,Man,False,False
+25,1,ast,897,3,6,ast,False,False
+25,2,ır,8155,6,8,ır,False,False
+25,3,▁As,1877,8,11, As,False,False
+25,4,keri,138319,11,15,keri,False,False
+25,5,▁L,629,15,17, L,False,False
+25,6,ises,5241,17,21,ises,False,False
+25,7,inde,7411,21,25,inde,False,False
+25,8,▁Mustafa,109627,25,33, Mustafa,False,False
+25,9,',235303,33,34,',False,False
+25,10,nın,68749,34,37,nın,False,False
+25,11,▁oku,28724,37,41, oku,True,False
+25,12,ma,534,41,43,ma,True,False
+25,13,▁diye,71888,43,48, diye,False,True
+25,14,▁att,2498,48,52, att,False,True
+25,15,ığı,33624,52,55,ığı,False,True
+25,16,▁ç,5953,55,57, ç,False,True
+25,17,ığ,29824,57,59,ığ,False,True
+25,18,lık,27978,59,62,lık,False,True
+25,19,▁herkes,105895,62,69, herkes,False,False
+25,20,i,235252,69,70,i,False,False
+25,21,▁ş,7736,70,72, ş,False,False
+25,22,aş,162025,72,74,aş,False,False
+25,23,ır,8155,74,76,ır,False,False
+25,24,tt,1171,76,78,tt,False,False
+25,25,ı,235405,78,79,ı,False,False
+25,26,.,235265,79,80,.,False,False
+26,0,Ayrıca,180075,0,6,Ayrıca,False,False
+26,1,▁ar,813,6,9, ar,False,False
+26,2,alar,14454,9,13,alar,False,False
+26,3,ında,15158,13,17,ında,False,False
+26,4,▁Türk,57441,17,22, Türk,False,False
+26,5,lerin,35696,22,27,lerin,False,False
+26,6,▁de,581,27,30, de,False,False
+26,7,▁bulundu,161061,30,38, bulundu,False,False
+26,8,ğu,31212,38,40,ğu,False,False
+26,9,▁bir,2843,40,44, bir,False,False
+26,10,▁bri,4008,44,48, bri,False,False
+26,11,ç,235409,48,49,ç,False,False
+26,12,▁takı,213872,49,54, takı,False,False
+26,13,mları,146832,54,59,mları,False,False
+26,14,▁var,2706,59,63, var,False,False
+26,15,mış,34244,63,66,mış,False,False
+26,16,▁ve,1408,66,69, ve,False,False
+26,17,▁bri,4008,69,73, bri,False,False
+26,18,ç,235409,73,74,ç,False,False
+26,19,▁oyn,201970,74,78, oyn,False,False
+26,20,arken,67320,78,83,arken,False,False
+26,21,▁yalnızca,220941,83,92, yalnızca,False,False
+26,22,▁Türkçe,102823,92,99, Türkçe,False,False
+26,23,▁konuş,80781,99,105, konuş,True,False
+26,24,ma,534,105,107,ma,True,False
+26,25,▁kur,10958,107,111, kur,False,True
+26,26,all,668,111,114,all,False,True
+26,27,arı,27020,114,117,arı,False,True
+26,28,▁var,2706,117,121, var,False,False
+26,29,mış,34244,121,124,mış,False,False
+26,30,.,235265,124,125,.,False,False
+27,0,Ayrıca,180075,0,6,Ayrıca,False,False
+27,1,▁ar,813,6,9, ar,False,False
+27,2,alar,14454,9,13,alar,False,False
+27,3,ında,15158,13,17,ında,False,False
+27,4,▁Türk,57441,17,22, Türk,False,False
+27,5,lerin,35696,22,27,lerin,False,False
+27,6,▁de,581,27,30, de,False,False
+27,7,▁bulundu,161061,30,38, bulundu,False,False
+27,8,ğu,31212,38,40,ğu,False,False
+27,9,▁bir,2843,40,44, bir,False,False
+27,10,▁bri,4008,44,48, bri,False,False
+27,11,ç,235409,48,49,ç,False,False
+27,12,▁takı,213872,49,54, takı,False,False
+27,13,mları,146832,54,59,mları,False,False
+27,14,▁var,2706,59,63, var,False,False
+27,15,mış,34244,63,66,mış,False,False
+27,16,▁ve,1408,66,69, ve,False,False
+27,17,▁bri,4008,69,73, bri,False,False
+27,18,ç,235409,73,74,ç,False,False
+27,19,▁oyn,201970,74,78, oyn,False,False
+27,20,arken,67320,78,83,arken,False,False
+27,21,▁Türkçe,102823,83,90, Türkçe,False,False
+27,22,▁konuş,80781,90,96, konuş,True,False
+27,23,ma,534,96,98,ma,True,False
+27,24,▁diye,71888,98,103, diye,False,True
+27,25,▁çok,24086,103,107, çok,False,True
+27,26,▁ciddi,232133,107,113, ciddi,False,True
+27,27,▁kur,10958,113,117, kur,False,True
+27,28,all,668,117,120,all,False,True
+27,29,arı,27020,120,123,arı,False,True
+27,30,▁var,2706,123,127, var,False,False
+27,31,mış,34244,127,130,mış,False,False
+27,32,.,235265,130,131,.,False,False
+28,0,Ayrıca,180075,0,6,Ayrıca,False,False
+28,1,▁ar,813,6,9, ar,False,False
+28,2,alar,14454,9,13,alar,False,False
+28,3,ında,15158,13,17,ında,False,False
+28,4,▁Türk,57441,17,22, Türk,False,False
+28,5,lerin,35696,22,27,lerin,False,False
+28,6,▁de,581,27,30, de,False,False
+28,7,▁bulundu,161061,30,38, bulundu,False,False
+28,8,ğu,31212,38,40,ğu,False,False
+28,9,▁bir,2843,40,44, bir,False,False
+28,10,▁bri,4008,44,48, bri,False,False
+28,11,ç,235409,48,49,ç,False,False
+28,12,▁takı,213872,49,54, takı,False,False
+28,13,mları,146832,54,59,mları,False,False
+28,14,▁var,2706,59,63, var,False,False
+28,15,mış,34244,63,66,mış,False,False
+28,16,▁ve,1408,66,69, ve,False,False
+28,17,▁bri,4008,69,73, bri,False,False
+28,18,ç,235409,73,74,ç,False,False
+28,19,▁oyn,201970,74,78, oyn,False,False
+28,20,arken,67320,78,83,arken,False,False
+28,21,▁sen,3149,83,87, sen,False,True
+28,22,▁Türkçe,102823,87,94, Türkçe,False,False
+28,23,▁konuş,80781,94,100, konuş,True,False
+28,24,ma,534,100,102,ma,True,False
+28,25,▁diye,71888,102,107, diye,False,False
+28,26,▁çok,24086,107,111, çok,False,False
+28,27,▁ç,5953,111,113, ç,False,False
+28,28,aba,6715,113,116,aba,False,False
+28,29,▁har,2623,116,120, har,False,False
+28,30,cam,7527,120,123,cam,False,False
+28,31,ış,10182,123,125,ış,False,False
+28,32,lar,2596,125,128,lar,False,False
+28,33,.,235265,128,129,.,False,False
+29,0,F,235311,0,1,F,False,False
+29,1,akat,18371,1,5,akat,False,False
+29,2,▁ona,58407,5,9, ona,False,True
+29,3,▁et,1008,9,12, et,False,True
+29,4,ki,1661,12,14,ki,False,True
+29,5,▁eden,75257,14,19, eden,False,True
+29,6,▁duyg,212381,19,24, duyg,False,True
+29,7,usal,13202,24,28,usal,False,True
+29,8,▁tep,25827,28,32, tep,True,False
+29,9,k,235273,32,33,k,True,False
+29,10,ime,882,33,36,ime,True,False
+29,11,▁son,2032,36,40, son,False,False
+29,12,ucu,104127,40,43,ucu,False,False
+29,13,▁ne,679,43,46, ne,False,False
+29,14,fes,24420,46,49,fes,False,False
+29,15,▁fakt,80516,49,54, fakt,False,False
+29,16,ör,2864,54,56,ör,False,False
+29,17,ünün,125046,56,60,ünün,False,False
+29,18,▁dev,4586,60,64, dev,False,False
+29,19,re,478,64,66,re,False,False
+29,20,ye,2163,66,68,ye,False,False
+29,21,▁gir,3294,68,72, gir,False,False
+29,22,mes,1360,72,75,mes,False,False
+29,23,idir,55870,75,79,idir,False,False
+29,24,.,235265,79,80,.,False,False
+31,0,Y,235342,0,1,Y,False,False
+31,1,ani,3746,1,4,ani,False,False
+31,2,▁sen,3149,4,8, sen,False,False
+31,3,▁de,581,8,11, de,False,False
+31,4,▁bir,2843,11,15, bir,False,False
+31,5,▁patron,26708,15,22, patron,False,False
+31,6,▁olarak,19838,22,29, olarak,False,False
+31,7,▁kat,14982,29,33, kat,True,False
+31,8,ma,534,33,35,ma,True,False
+31,9,▁böyle,89062,35,41, böyle,False,True
+31,10,▁değer,82389,41,47, değer,False,True
+31,11,",",235269,47,48,",",False,False
+31,12,▁yak,25942,48,52, yak,False,False
+31,13,ış,10182,52,54,ış,False,False
+31,14,ıyor,33886,54,58,ıyor,False,False
+31,15,▁mu,1150,58,61, mu,False,False
+31,16,▁sana,38277,61,66, sana,False,False
+31,17,▁Allah,23806,66,72, Allah,False,False
+31,18,▁aşk,152138,72,76, aşk,False,False
+31,19,ına,23951,76,79,ına,False,False
+31,20,!,235341,79,80,!,False,False
+35,0,Seven,38522,0,5,Seven,False,False
+35,1,▁merak,180617,5,11, merak,False,False
+35,2,▁eder,57603,11,16, eder,False,False
+35,3,▁ama,15625,16,20, ama,False,True
+35,4,▁sen,3149,20,24, sen,False,True
+35,5,▁sak,20396,24,28, sak,False,True
+35,6,ın,4119,28,30,ın,False,True
+35,7,▁merak,180617,30,36, merak,False,True
+35,8,▁etme,162154,36,41, etme,True,False
+35,9,",",235269,41,42,",",False,False
+35,10,▁bun,15907,42,46, bun,False,False
+35,11,alt,3856,46,49,alt,False,False
+35,12,ırs,118103,49,52,ırs,False,False
+35,13,ın,4119,52,54,ın,False,False
+35,14,▁k,638,54,56, k,False,False
+35,15,ızı,44403,56,59,ızı,False,False
+35,16,.,235265,59,60,.,False,False
+36,0,Seven,38522,0,5,Seven,False,False
+36,1,▁merak,180617,5,11, merak,False,False
+36,2,▁eder,57603,11,16, eder,False,False
+36,3,",",235269,16,17,",",False,False
+36,4,▁merak,180617,17,23, merak,False,True
+36,5,▁etme,162154,23,28, etme,True,False
+36,6,▁aşk,152138,28,32, aşk,False,False
+36,7,ın,4119,32,34,ın,False,False
+36,8,▁doğ,38012,34,38, doğ,False,False
+36,9,asında,200861,38,44,asında,False,False
+36,10,▁vardır,98430,44,51, vardır,False,False
+36,11,.,235265,51,52,.,False,False
+37,0,D,235299,0,1,D,False,False
+37,1,öne,26063,1,4,öne,False,False
+37,2,min,1017,4,7,min,False,False
+37,3,▁Ter,4406,7,11, Ter,False,False
+37,4,cü,71083,11,13,cü,False,False
+37,5,man,1066,13,16,man,False,False
+37,6,▁gaz,21621,16,20, gaz,False,False
+37,7,etes,9829,20,24,etes,False,False
+37,8,inde,7411,24,28,inde,False,False
+37,9,▁sistem,16922,28,35, sistem,False,False
+37,10,li,515,35,37,li,False,False
+37,11,▁olarak,19838,37,44, olarak,False,False
+37,12,▁Pol,6855,44,48, Pol,False,True
+37,13,-,235290,48,49,-,False,True
+37,14,Der,8636,49,52,Der,False,True
+37,15,▁a,476,52,54, a,False,True
+37,16,ley,2227,54,57,ley,False,True
+37,17,hine,90466,57,61,hine,False,True
+37,18,▁bir,2843,61,65, bir,False,True
+37,19,▁kar,8386,65,69, kar,True,False
+37,20,alama,78351,69,74,alama,True,False
+37,21,▁kamp,33344,74,79, kamp,False,False
+37,22,any,1385,79,82,any,False,False
+37,23,ası,25725,82,85,ası,False,False
+37,24,▁yür,179113,85,89, yür,False,False
+37,25,üt,9448,89,91,üt,False,False
+37,26,ül,9651,91,93,ül,False,False
+37,27,üy,24050,93,95,üy,False,False
+37,28,ordu,60084,95,99,ordu,False,False
+37,29,.,235265,99,100,.,False,False
+38,0,Bü,122463,0,2,Bü,False,False
+38,1,ro,514,2,4,ro,False,False
+38,2,kra,8936,4,7,kra,False,False
+38,3,si,542,7,9,si,False,False
+38,4,",",235269,9,10,",",False,False
+38,5,▁ik,6052,10,13, ik,False,False
+38,6,tid,10009,13,16,tid,False,False
+38,7,ar,486,16,18,ar,False,False
+38,8,ını,13598,18,21,ını,False,False
+38,9,▁pe,1099,21,24, pe,False,False
+38,10,ki,1661,24,26,ki,False,False
+38,11,şti,36898,26,29,şti,False,False
+38,12,rir,10484,29,32,rir,False,False
+38,13,ken,1753,32,35,ken,False,False
+38,14,▁önce,58691,35,40, önce,False,False
+38,15,▁gerçek,57355,40,47, gerçek,False,False
+38,16,ç,235409,47,48,ç,False,False
+38,17,ile,862,48,51,ile,False,False
+38,18,ş,235517,51,52,ş,False,False
+38,19,erek,14984,52,56,erek,False,False
+38,20,▁dünya,157251,56,62, dünya,False,False
+38,21,▁dev,4586,62,66, dev,False,False
+38,22,rim,7918,66,69,rim,False,False
+38,23,inden,13961,69,74,inden,False,False
+38,24,▁vaz,56475,74,78, vaz,False,False
+38,25,geç,202131,78,81,geç,False,False
+38,26,miş,26484,81,84,miş,False,False
+38,27,▁ve,1408,84,87, ve,False,False
+38,28,▁tek,14559,87,91, tek,False,False
+38,29,▁ül,87408,91,94, ül,False,False
+38,30,kede,95252,94,98,kede,False,False
+38,31,▁sosyal,140164,98,105, sosyal,False,False
+38,32,iz,716,105,107,iz,False,False
+38,33,mi,1493,107,109,mi,False,False
+38,34,▁inşa,192816,109,114, inşa,False,False
+38,35,▁etme,162154,114,119, etme,True,False
+38,36,▁yön,87610,119,123, yön,False,True
+38,37,temi,137461,123,127,temi,False,True
+38,38,▁olarak,19838,127,134, olarak,False,False
+38,39,▁ul,11977,134,137, ul,False,False
+38,40,usal,13202,137,141,usal,False,False
+38,41,▁kalk,92289,141,146, kalk,False,False
+38,42,ın,4119,146,148,ın,False,False
+38,43,mayı,80346,148,152,mayı,False,False
+38,44,▁ve,1408,152,155, ve,False,False
+38,45,▁san,4901,155,159, san,False,False
+38,46,ay,626,159,161,ay,False,False
+38,47,ile,862,161,164,ile,False,False
+38,48,ş,235517,164,165,ş,False,False
+38,49,meyi,121153,165,169,meyi,False,False
+38,50,▁öne,189977,169,173, öne,False,False
+38,51,▁çık,54834,173,177, çık,False,False
+38,52,arm,4542,177,180,arm,False,False
+38,53,ış,10182,180,182,ış,False,False
+38,54,",",235269,182,183,",",False,False
+38,55,▁ardından,160838,183,192, ardından,False,False
+38,56,▁ve,1408,192,195, ve,False,False
+38,57,▁buna,117883,195,200, buna,False,False
+38,58,▁uygun,104332,200,206, uygun,False,False
+38,59,▁olarak,19838,206,213, olarak,False,False
+38,60,",",235269,213,214,",",False,False
+38,61,▁milli,9940,214,220, milli,False,False
+38,62,yet,26246,220,223,yet,False,False
+38,63,ç,235409,223,224,ç,False,False
+38,64,ili,1219,224,227,ili,False,False
+38,65,ği,16894,227,229,ği,False,False
+38,66,▁Mark,4082,229,234, Mark,False,False
+38,67,siz,29614,234,237,siz,False,False
+38,68,min,1017,237,240,min,False,False
+38,69,▁iç,10847,240,243, iç,False,False
+38,70,sel,932,243,246,sel,False,False
+38,71,▁ve,1408,246,249, ve,False,False
+38,72,▁doğal,146973,249,255, doğal,False,False
+38,73,▁bir,2843,255,259, bir,False,False
+38,74,▁uns,6042,259,263, uns,False,False
+38,75,uru,11334,263,266,uru,False,False
+38,76,▁olarak,19838,266,273, olarak,False,False
+38,77,▁teor,49967,273,278, teor,False,False
+38,78,ize,889,278,281,ize,False,False
+38,79,▁et,1008,281,284, et,False,False
+38,80,miştir,96827,284,290,miştir,False,False
+38,81,.,235265,290,291,.,False,False
+39,0,Bu,2179,0,2,Bu,False,False
+39,1,▁mah,41850,2,6, mah,False,False
+39,2,ke,655,6,8,ke,False,False
+39,3,meler,181942,8,13,meler,False,False
+39,4,▁bü,99213,13,16, bü,False,False
+39,5,ny,1283,16,18,ny,False,False
+39,6,esinde,117274,18,24,esinde,False,False
+39,7,▁sosyal,140164,24,31, sosyal,False,False
+39,8,▁hizmet,105705,31,38, hizmet,False,False
+39,9,▁uzman,197428,38,44, uzman,False,False
+39,10,ları,14017,44,48,ları,False,False
+39,11,▁görev,147741,48,54, görev,False,False
+39,12,▁al,717,54,57, al,False,False
+39,13,malı,65537,57,61,malı,False,False
+39,14,",",235269,61,62,",",False,False
+39,15,▁ayrıca,194362,62,69, ayrıca,False,False
+39,16,▁psi,34724,69,73, psi,False,False
+39,17,kolog,52677,73,78,kolog,False,False
+39,18,",",235269,78,79,",",False,False
+39,19,▁pedagog,55808,79,87, pedagog,False,False
+39,20,▁ve,1408,87,90, ve,False,False
+39,21,▁sosyal,140164,90,97, sosyal,False,False
+39,22,▁çalışma,167089,97,105, çalışma,True,False
+39,23,▁uzman,197428,105,111, uzman,False,True
+39,24,larından,143630,111,119,larından,False,True
+39,25,▁oluşan,165525,119,126, oluşan,False,False
+39,26,▁bir,2843,126,130, bir,False,False
+39,27,▁b,518,130,132, b,False,False
+39,28,ilir,34447,132,136,ilir,False,False
+39,29,ki,1661,136,138,ki,False,False
+39,30,ş,235517,138,139,ş,False,False
+39,31,ilik,39815,139,143,ilik,False,False
+39,32,▁kur,10958,143,147, kur,False,False
+39,33,umu,27430,147,150,umu,False,False
+39,34,▁oluştur,104123,150,158, oluştur,False,False
+39,35,ul,601,158,160,ul,False,False
+39,36,malıdır,126566,160,167,malıdır,False,False
+39,37,.,235265,167,168,.,False,False
+46,0,H,235314,0,1,H,False,False
+46,1,ava,1263,1,4,ava,False,False
+46,2,▁çok,24086,4,8, çok,False,False
+46,3,▁soğ,185594,8,12, soğ,False,False
+46,4,uk,1458,12,14,uk,False,False
+46,5,",",235269,14,15,",",False,False
+46,6,▁sen,3149,15,19, sen,False,True
+46,7,▁sak,20396,19,23, sak,False,True
+46,8,ın,4119,23,25,ın,False,True
+46,9,▁ev,2628,25,28, ev,False,True
+46,10,den,1574,28,31,den,False,True
+46,11,▁çık,54834,31,35, çık,True,False
+46,12,ma,534,35,37,ma,True,False
+46,13,.,235265,37,38,.,False,False
+47,0,Ek,22100,0,2,Ek,True,False
+47,1,me,504,2,4,me,True,False
+47,2,▁de,581,4,7, de,False,True
+47,3,dim,10537,7,10,dim,False,True
+47,4,▁ama,15625,10,14, ama,False,True
+47,5,▁din,5540,14,18, din,False,True
+47,6,le,494,18,20,le,False,True
+47,7,medi,3362,20,24,medi,False,True
+47,8,"▁,",1688,24,26," ,",False,False
+47,9,▁bütün,123350,26,32, bütün,False,False
+47,10,▁paras,27663,32,38, paras,False,False
+47,11,ını,13598,38,41,ını,False,False
+47,12,▁kaybet,199807,41,48, kaybet,False,False
+47,13,miş,26484,48,51,miş,False,False
+47,14,▁.,954,51,53, .,False,False
+48,0,B,235305,0,1,B,False,False
+48,1,ütün,90477,1,5,ütün,False,False
+48,2,▁bu,1222,5,8, bu,False,False
+48,3,▁proj,74892,8,13, proj,False,False
+48,4,eler,6972,13,17,eler,False,False
+48,5,▁sü,23406,17,20, sü,False,False
+48,6,res,624,20,23,res,False,False
+48,7,ince,1799,23,27,ince,False,False
+48,8,▁is,603,27,30, is,False,False
+48,9,rafa,85299,30,34,rafa,False,False
+48,10,▁kaç,88097,34,38, kaç,True,False
+48,11,ma,534,38,40,ma,True,False
+48,12,▁l,533,40,42, l,False,True
+48,13,ütfen,173077,42,47,ütfen,False,True
+48,14,▁mümkün,171181,47,54, mümkün,False,True
+48,15,se,497,54,56,se,False,True
+48,16,▁.,954,56,58, .,False,False
+50,0,Dur,25978,0,3,Dur,False,False
+50,1,up,1021,3,5,up,False,False
+50,2,▁dur,6374,5,9, dur,False,True
+50,3,up,1021,9,11,up,False,True
+50,4,▁kı,35443,11,14, kı,False,True
+50,5,za,1438,14,16,za,False,True
+50,6,▁elle,11340,16,21, elle,True,False
+50,7,şme,166804,21,24,şme,True,False
+50,8,!,235341,24,25,!,False,False
+51,0,N,235300,0,1,N,False,False
+51,1,erede,48086,1,6,erede,False,False
+51,2,▁güzel,54819,6,12, güzel,False,False
+51,3,▁gö,13096,12,15, gö,False,False
+51,4,rsen,226463,15,19,rsen,False,False
+51,5,▁ona,58407,19,23, ona,False,True
+51,6,▁çev,118826,23,27, çev,True,False
+51,7,ril,6646,27,30,ril,True,False
+51,8,me,504,30,32,me,True,False
+51,9,"▁,",1688,32,34," ,",False,False
+51,10,▁bizim,150116,34,40, bizim,False,False
+51,11,▁il,1800,40,43, il,False,False
+51,12,de,495,43,45,de,False,False
+51,13,▁cana,68267,45,50, cana,False,False
+51,14,▁kı,35443,50,53, kı,False,False
+51,15,yan,6487,53,56,yan,False,False
+51,16,▁bey,6783,56,60, bey,False,False
+51,17,ler,1595,60,63,ler,False,False
+51,18,▁var,2706,63,67, var,False,False
+53,0,N,235300,0,1,N,False,False
+53,1,erede,48086,1,6,erede,False,False
+53,2,▁güzel,54819,6,12, güzel,False,False
+53,3,▁gö,13096,12,15, gö,False,False
+53,4,rsen,226463,15,19,rsen,False,False
+53,5,▁ona,58407,19,23, ona,False,False
+53,6,▁çe,60631,23,26, çe,True,False
+53,7,vir,2340,26,29,vir,True,False
+53,8,me,504,29,31,me,True,False
+53,9,▁ni,2798,31,34, ni,False,True
+53,10,yet,26246,34,37,yet,False,True
+53,11,in,473,37,39,in,False,True
+53,12,▁oluyor,170822,39,46, oluyor,False,True
+53,13,"▁,",1688,46,48," ,",False,False
+53,14,▁bizim,150116,48,54, bizim,False,False
+53,15,▁il,1800,54,57, il,False,False
+53,16,de,495,57,59,de,False,False
+53,17,▁cana,68267,59,64, cana,False,False
+53,18,▁kı,35443,64,67, kı,False,False
+53,19,yan,6487,67,70,yan,False,False
+53,20,▁bey,6783,70,74, bey,False,False
+53,21,ler,1595,74,77,ler,False,False
+53,22,▁var,2706,77,81, var,False,False
+54,0,Ge,5066,0,2,Ge,False,False
+54,1,ce,532,2,4,ce,False,False
+54,2,leyin,152215,4,9,leyin,False,False
+54,3,▁bel,2100,9,13, bel,False,True
+54,4,anı,165195,13,16,anı,False,True
+54,5,▁ara,20535,16,20, ara,True,False
+54,6,ma,534,20,22,ma,True,False
+54,7,"▁,",1688,22,24," ,",False,False
+54,8,▁hay,7271,24,28, hay,False,False
+54,9,di,543,28,30,di,False,False
+54,10,▁ner,22455,30,34, ner,False,False
+54,11,den,1574,34,37,den,False,False
+54,12,▁geld,61947,37,42, geld,False,False
+54,13,inse,66112,42,46,inse,False,False
+54,14,▁bas,2572,46,50, bas,False,False
+54,15,▁git,25489,50,54, git,False,False
+54,16,▁or,689,54,57, or,False,False
+54,17,aya,5908,57,60,aya,False,False
+54,18,▁.,954,60,62, .,False,False
+55,0,O,235302,0,1,O,False,False
+55,1,▁kork,82177,1,6, kork,False,False
+55,2,uyu,78904,6,9,uyu,False,False
+55,3,▁çok,24086,9,13, çok,False,False
+55,4,tan,8401,13,16,tan,False,False
+55,5,▁tü,56706,16,19, tü,False,False
+55,6,ket,7700,19,22,ket,False,False
+55,7,miş,26484,22,25,miş,False,False
+55,8,tim,2363,25,28,tim,False,False
+55,9,▁ama,15625,28,32, ama,False,False
+55,10,▁bab,14082,32,36, bab,False,False
+55,11,ama,2867,36,39,ama,False,False
+55,12,▁in,575,39,42, in,True,False
+55,13,me,504,42,44,me,True,False
+55,14,▁in,575,44,47, in,False,True
+55,15,ebilir,178884,47,53,ebilir,False,True
+55,16,di,543,53,55,di,False,True
+55,17,▁.,954,55,57, .,False,False
+56,0,Her,8274,0,3,Her,False,True
+56,1,▁dil,15128,3,7, dil,False,True
+56,2,bere,16517,7,11,bere,False,True
+56,3,▁me,682,11,14, me,False,True
+56,4,yil,88789,14,17,yil,False,True
+56,5,▁verme,51356,17,23, verme,True,False
+56,6,▁/,1148,23,25, /,False,False
+56,7,▁Ya,17585,25,28, Ya,False,False
+56,8,▁sevi,99414,28,33, sevi,False,False
+56,9,lir,11763,33,36,lir,False,False
+56,10,▁ya,3965,36,39, ya,False,False
+56,11,▁se,699,39,42, se,False,False
+56,12,vil,9686,42,45,vil,False,False
+56,13,mez,21922,45,48,mez,False,False
+58,0,Her,8274,0,3,Her,False,False
+58,1,▁dil,15128,3,7, dil,False,False
+58,2,bere,16517,7,11,bere,False,False
+58,3,▁me,682,11,14, me,False,False
+58,4,yil,88789,14,17,yil,False,False
+58,5,▁verme,51356,17,23, verme,True,False
+58,6,▁l,533,23,25, l,False,True
+58,7,üz,22938,25,27,üz,False,True
+58,8,umu,27430,27,30,umu,False,True
+58,9,▁yok,43885,30,34, yok,False,True
+58,10,▁/,1148,34,36, /,False,False
+58,11,▁Ya,17585,36,39, Ya,False,False
+58,12,▁sevi,99414,39,44, sevi,False,False
+58,13,lir,11763,44,47,lir,False,False
+58,14,▁ya,3965,47,50, ya,False,False
+58,15,▁se,699,50,53, se,False,False
+58,16,vil,9686,53,56,vil,False,False
+58,17,mez,21922,56,59,mez,False,False
+59,0,Bu,2179,0,2,Bu,False,True
+59,1,▁kolay,85955,2,8, kolay,False,True
+59,2,▁işi,194524,8,12, işi,False,True
+59,3,▁güç,86714,12,16, güç,True,False
+59,4,leştir,159266,16,22,leştir,True,False
+59,5,me,504,22,24,me,True,False
+59,6,▁y,597,24,26, y,False,False
+59,7,av,782,26,28,av,False,False
+59,8,rum,20100,28,31,rum,False,False
+59,9,▁;,2161,31,33, ;,False,False
+59,10,▁arkadaş,101967,33,41, arkadaş,False,False
+59,11,▁ol,6989,41,44, ol,False,False
+59,12,▁benim,99702,44,50, benim,False,False
+59,13,le,494,50,52,le,False,False
+59,14,"▁,",1688,52,54," ,",False,False
+59,15,▁s,485,54,56, s,False,False
+59,16,ır,8155,56,58,ır,False,False
+59,17,da,1335,58,60,da,False,False
+59,18,ş,235517,60,61,ş,False,False
+59,19,▁ol,6989,61,64, ol,False,False
+59,20,▁.,954,64,66, .,False,False
+60,0,Ben,7510,0,3,Ben,False,True
+60,1,i,235252,3,4,i,False,True
+60,2,▁bu,1222,4,7, bu,False,True
+60,3,▁kadar,33558,7,13, kadar,False,True
+60,4,▁yü,90320,13,16, yü,False,True
+60,5,rek,21346,16,19,rek,False,True
+60,6,ten,965,19,22,ten,False,True
+60,7,▁çağ,167298,22,26, çağ,True,False
+60,8,ır,8155,26,28,ır,True,False
+60,9,ma,534,28,30,ma,True,False
+60,10,▁▁,139,30,32,  ,False,False
+60,11,/,235283,32,33,/,False,False
+60,12,▁Bir,9971,33,37, Bir,False,False
+60,13,▁gece,126576,37,42, gece,False,False
+60,14,▁ans,4811,42,46, ans,False,False
+60,15,ız,10078,46,48,ız,False,False
+60,16,ın,4119,48,50,ın,False,False
+60,17,▁gele,27352,50,55, gele,False,False
+60,18,bili,10837,55,59,bili,False,False
+60,19,rim,7918,59,62,rim,False,False
+62,0,Ben,7510,0,3,Ben,False,False
+62,1,i,235252,3,4,i,False,False
+62,2,▁bu,1222,4,7, bu,False,False
+62,3,▁kadar,33558,7,13, kadar,False,False
+62,4,▁yü,90320,13,16, yü,False,False
+62,5,rek,21346,16,19,rek,False,False
+62,6,ten,965,19,22,ten,False,False
+62,7,▁çağ,167298,22,26, çağ,True,False
+62,8,ır,8155,26,28,ır,True,False
+62,9,ma,534,28,30,ma,True,False
+62,10,▁gere,28454,30,35, gere,False,True
+62,11,ği,16894,35,37,ği,False,True
+62,12,▁gör,19893,37,41, gör,False,False
+62,13,me,504,41,43,me,False,False
+62,14,miş,26484,43,46,miş,False,False
+62,15,sin,7503,46,49,sin,False,False
+62,16,.,235265,49,50,.,False,False
+63,0,Ali,6317,0,3,Ali,False,False
+63,1,',235303,3,4,',False,False
+63,2,ye,2163,4,6,ye,False,False
+63,3,▁de,581,6,9, de,False,False
+63,4,dim,10537,9,12,dim,False,False
+63,5,▁zaten,136081,12,18, zaten,False,False
+63,6,▁sen,3149,18,22, sen,False,True
+63,7,▁bab,14082,22,26, bab,False,True
+63,8,an,481,26,28,an,False,True
+63,9,▁gibi,31530,28,33, gibi,False,True
+63,10,▁olma,133520,33,38, olma,True,False
+63,11,▁diye,71888,38,43, diye,False,False
+63,12,",",235269,43,44,",",False,False
+63,13,▁duy,45354,44,48, duy,False,False
+63,14,du,763,48,50,du,False,False
+63,15,ysa,101009,50,53,ysa,False,False
+63,16,▁ne,679,53,56, ne,False,False
+63,17,▁ala,10227,56,60, ala,False,False
+63,18,.,235265,60,61,.,False,False
+64,0,Art,10748,0,3,Art,False,False
+64,1,ık,10622,3,5,ık,False,False
+64,2,▁sana,38277,5,10, sana,False,False
+64,3,▁da,1260,10,13, da,False,False
+64,4,▁',777,13,15, ',False,False
+64,5,Kar,14052,15,18,Kar,False,True
+64,6,ını,13598,18,21,ını,False,True
+64,7,▁ald,28744,21,25, ald,True,False
+64,8,at,482,25,27,at,True,False
+64,9,ma,534,27,29,ma,True,False
+64,10,!',26863,29,31,!',False,False
+64,11,▁de,581,31,34, de,False,False
+64,12,mem,7105,34,37,mem,False,False
+64,13,iz,716,37,39,iz,False,False
+64,14,▁gere,28454,39,44, gere,False,False
+64,15,kiy,106410,44,47,kiy,False,False
+64,16,orsa,30636,47,51,orsa,False,False
+64,17,▁biz,25429,51,55, biz,False,False
+64,18,▁ö,6332,55,57, ö,False,False
+64,19,le,494,57,59,le,False,False
+64,20,lim,4579,59,62,lim,False,False
+64,21,.,235265,62,63,.,False,False
+66,0,B,235305,0,1,B,False,False
+66,1,akan,5535,1,5,akan,False,False
+66,2,',235303,5,6,',False,False
+66,3,ın,4119,6,8,ın,False,False
+66,4,▁yaptığı,183178,8,16, yaptığı,False,False
+66,5,▁açıklama,215474,16,25, açıklama,False,False
+66,6,da,1335,25,27,da,False,False
+66,7,▁en,659,27,30, en,False,False
+66,8,▁öne,189977,30,34, öne,False,False
+66,9,▁çıkan,196999,34,40, çıkan,False,False
+66,10,▁nok,53689,40,44, nok,False,False
+66,11,ta,516,44,46,ta,False,False
+66,12,",",235269,46,47,",",False,False
+66,13,▁eğitim,133860,47,54, eğitim,False,True
+66,14,cil,3608,54,57,cil,False,True
+66,15,ere,654,57,60,ere,False,True
+66,16,▁ver,972,60,64, ver,False,True
+66,17,ilen,9920,64,68,ilen,False,True
+66,18,▁emir,105336,68,73, emir,False,True
+66,19,di,543,73,75,di,False,True
+66,20,:,235292,75,76,:,False,True
+66,21,▁K,747,76,78, K,False,True
+66,22,opy,2856,78,81,opy,False,True
+66,23,aya,5908,81,84,aya,False,True
+66,24,▁müs,134148,84,88, müs,False,True
+66,25,amaha,22065,88,93,amaha,False,True
+66,26,▁göster,64737,93,100, göster,True,False
+66,27,me,504,100,102,me,True,False
+66,28,.,235265,102,103,.,False,False
+67,0,AB,2080,0,2,AB,False,False
+67,1,',235303,2,3,',False,False
+67,2,den,1574,3,6,den,False,False
+67,3,▁Google,6238,6,13, Google,False,False
+67,4,',235303,13,14,',False,False
+67,5,a,235250,14,15,a,False,False
+67,6,▁çok,24086,15,19, çok,False,True
+67,7,▁sert,67935,19,24, sert,False,True
+67,8,▁çık,54834,24,28, çık,False,True
+67,9,ış,10182,28,30,ış,False,True
+67,10,:,235292,30,31,:,False,True
+67,11,▁Ara,22256,31,35, Ara,False,True
+67,12,ma,534,35,37,ma,False,True
+67,13,▁ver,972,37,41, ver,False,True
+67,14,ilerini,209852,41,48,ilerini,False,True
+67,15,▁sun,4389,48,52, sun,False,True
+67,16,uc,1669,52,54,uc,False,True
+67,17,ular,1035,54,58,ular,False,True
+67,18,ında,15158,58,62,ında,False,True
+67,19,▁sak,20396,62,66, sak,True,False
+67,20,lama,10450,66,70,lama,True,False
+67,21,.,235265,70,71,.,False,False
+68,0,Y,235342,0,1,Y,False,True
+68,1,apt,6323,1,4,apt,False,True
+68,2,ığın,188791,4,8,ığın,False,True
+68,3,▁yan,31794,8,12, yan,False,True
+68,4,lı,7014,12,14,lı,False,True
+68,5,şı,25784,14,16,şı,False,True
+68,6,▁benim,99702,16,22, benim,False,True
+68,7,▁karşı,61004,22,28, karşı,False,True
+68,8,ma,534,28,30,ma,False,True
+68,9,▁geç,39030,30,34, geç,False,True
+68,10,ip,1314,34,36,ip,False,True
+68,11,▁de,581,36,39, de,False,True
+68,12,▁sav,4312,39,43, sav,True,False
+68,13,un,549,43,45,un,True,False
+68,14,ma,534,45,47,ma,True,False
+68,15,▁artık,129719,47,53, artık,False,False
+68,16,",",235269,53,54,",",False,False
+68,17,▁kendini,178558,54,62, kendini,False,False
+68,18,▁küçük,93594,62,68, küçük,False,False
+68,19,▁düş,38030,68,72, düş,False,False
+68,20,ür,1943,72,74,ür,False,False
+68,21,üy,24050,74,76,üy,False,False
+68,22,ors,976,76,79,ors,False,False
+68,23,un,549,79,81,un,False,False
+68,24,.,235265,81,82,.,False,False
+69,0,Mig,15564,0,3,Mig,False,False
+69,1,ren,1135,3,6,ren,False,False
+69,2,ini,1904,6,9,ini,False,False
+69,3,▁te,1088,9,12, te,False,False
+69,4,tik,4642,12,15,tik,False,False
+69,5,lemek,131998,15,20,lemek,False,False
+69,6,▁is,603,20,23, is,False,False
+69,7,tem,686,23,26,tem,False,False
+69,8,iy,24179,26,28,iy,False,False
+69,9,ors,976,28,31,ors,False,False
+69,10,an,481,31,33,an,False,False
+69,11,▁tav,33035,33,37, tav,False,True
+69,12,and,639,37,40,and,False,True
+69,13,aki,7794,40,43,aki,False,True
+69,14,▁beyaz,53528,43,49, beyaz,False,True
+69,15,▁ış,233386,49,52, ış,False,True
+69,16,ığı,33624,52,55,ığı,False,True
+69,17,▁yak,25942,55,59, yak,True,False
+69,18,ma,534,59,61,ma,True,False
+69,19,.,235265,61,62,.,False,False
+70,0,Ali,6317,0,3,Ali,False,True
+70,1,',235303,3,4,',False,True
+70,2,nin,21270,4,7,nin,False,True
+70,3,▁ni,2798,7,10, ni,False,True
+70,4,yeti,108388,10,14,yeti,False,True
+70,5,▁zaten,136081,14,20, zaten,False,True
+70,6,▁oku,28724,20,24, oku,False,False
+70,7,la,522,24,26,la,False,False
+70,8,▁git,25489,26,30, git,True,False
+70,9,me,504,30,32,me,True,False
+70,10,▁ols,59397,32,36, ols,False,False
+70,11,ay,626,36,38,ay,False,False
+70,12,dı,68850,38,40,dı,False,False
+70,13,▁hali,107025,40,45, hali,False,False
+70,14,▁tav,33035,45,49, tav,False,False
+70,15,rı,58492,49,51,rı,False,False
+70,16,▁baş,20074,51,55, baş,False,False
+70,17,tan,8401,55,58,tan,False,False
+70,18,▁bamb,17925,58,63, bamb,False,False
+70,19,aş,162025,63,65,aş,False,False
+70,20,ka,1161,65,67,ka,False,False
+70,21,▁olur,71552,67,72, olur,False,False
+70,22,du,763,72,74,du,False,False
+70,23,.,235265,74,75,.,False,False
+71,0,Ak,16187,0,2,Ak,False,True
+71,1,if,648,2,4,if,False,True
+71,2,',235303,4,5,',False,True
+71,3,in,473,5,7,in,False,True
+71,4,▁ni,2798,7,10, ni,False,True
+71,5,yet,26246,10,13,yet,False,True
+71,6,inin,20613,13,17,inin,False,True
+71,7,▁kar,8386,17,21, kar,False,True
+71,8,ısını,191615,21,26,ısını,False,True
+71,9,▁ald,28744,26,30, ald,True,False
+71,10,at,482,30,32,at,True,False
+71,11,ma,534,32,34,ma,True,False
+71,12,▁olduğunu,66960,34,43, olduğunu,False,False
+71,13,▁hiç,66689,43,47, hiç,False,False
+71,14,bi,2479,47,49,bi,False,False
+71,15,rim,7918,49,52,rim,False,False
+71,16,iz,716,52,54,iz,False,False
+71,17,▁bil,10349,54,58, bil,False,False
+71,18,miy,127823,58,61,miy,False,False
+71,19,ord,757,61,64,ord,False,False
+71,20,uk,1458,64,66,uk,False,False
+71,21,.,235265,66,67,.,False,False
+72,0,Biz,44743,0,3,Biz,False,True
+72,1,im,571,3,5,im,False,True
+72,2,▁şirket,189062,5,12, şirket,False,True
+72,3,in,473,12,14,in,False,True
+72,4,▁çalışan,180331,14,22, çalışan,False,True
+72,5,larının,90030,22,29,larının,False,True
+72,6,▁hiç,66689,29,33, hiç,False,True
+72,7,▁de,581,33,36, de,False,True
+72,8,▁öyle,146004,36,41, öyle,False,True
+72,9,▁of,576,41,44, of,False,True
+72,10,iste,3671,44,48,iste,False,True
+72,11,▁bulun,63094,48,54, bulun,True,False
+72,12,ma,534,54,56,ma,True,False
+72,13,▁gibi,31530,56,61, gibi,False,False
+72,14,▁ar,813,61,64, ar,False,False
+72,15,z,235306,64,65,z,False,False
+72,16,uları,164540,65,70,uları,False,False
+72,17,▁yok,43885,70,74, yok,False,False
+72,18,.,235265,74,75,.,False,False
+74,0,Ç,236406,0,1,Ç,False,False
+74,1,o,235253,1,2,o,False,False
+74,2,ğu,31212,2,4,ğu,False,False
+74,3,▁zaman,33899,4,10, zaman,False,False
+74,4,▁er,1123,10,13, er,False,True
+74,5,gen,1056,13,16,gen,False,True
+74,6,in,473,16,18,in,False,True
+74,7,▁iç,10847,18,21, iç,False,True
+74,8,gü,56301,21,23,gü,False,True
+74,9,d,235258,23,24,d,False,True
+74,10,üsü,76385,24,27,üsü,False,True
+74,11,▁başına,214856,27,34, başına,False,True
+74,12,▁gelen,91821,34,40, gelen,False,True
+74,13,▁stres,83480,40,46, stres,False,True
+74,14,li,515,46,48,li,False,True
+74,15,▁olay,122337,48,53, olay,False,True
+74,16,ları,14017,53,57,ları,False,True
+74,17,▁e,526,57,59, e,False,True
+74,18,beve,226028,59,63,beve,False,True
+74,19,yn,1686,63,65,yn,False,True
+74,20,inden,13961,65,70,inden,False,True
+74,21,▁sak,20396,70,74, sak,True,False
+74,22,lama,10450,74,78,lama,True,False
+74,23,▁yön,87610,78,82, yön,False,False
+74,24,ünde,36522,82,86,ünde,False,False
+74,25,.,235265,86,87,.,False,False
+75,0,Mah,30288,0,3,Mah,False,True
+75,1,kem,15669,3,6,kem,False,True
+75,2,enin,113803,6,10,enin,False,True
+75,3,▁bir,2843,10,14, bir,False,True
+75,4,▁taraf,22410,14,20, taraf,False,True
+75,5,ı,235405,20,21,ı,False,True
+75,6,▁sav,4312,21,25, sav,True,False
+75,7,un,549,25,27,un,True,False
+75,8,ma,534,27,29,ma,True,False
+75,9,▁av,2924,29,32, av,False,False
+75,10,ukat,111937,32,36,ukat,False,False
+75,11,ı,235405,36,37,ı,False,False
+75,12,▁için,13911,37,42, için,False,False
+75,13,▁ayr,114312,42,46, ayr,False,False
+75,14,ılmıştır,230928,46,54,ılmıştır,False,False
+75,15,.,235265,54,55,.,False,False
+76,0,Ay,25826,0,2,Ay,False,True
+76,1,şe,56292,2,4,şe,False,True
+76,2,',235303,4,5,',False,True
+76,3,nin,21270,5,8,nin,False,True
+76,4,▁endi,210701,8,13, endi,False,True
+76,5,ş,235517,13,14,ş,False,True
+76,6,eli,17958,14,17,eli,False,True
+76,7,▁göz,59906,17,21, göz,False,True
+76,8,leri,13446,21,25,leri,False,True
+76,9,▁sav,4312,25,29, sav,True,False
+76,10,un,549,29,31,un,True,False
+76,11,ma,534,31,33,ma,True,False
+76,12,▁av,2924,33,36, av,False,False
+76,13,ukat,111937,36,40,ukat,False,False
+76,14,ını,13598,40,43,ını,False,False
+76,15,▁a,476,43,45, a,False,False
+76,16,rad,6907,45,48,rad,False,False
+76,17,ı,235405,48,49,ı,False,False
+76,18,.,235265,49,50,.,False,False
+77,0,He,1949,0,2,He,False,False
+77,1,ves,1143,2,5,ves,False,False
+77,2,li,515,5,7,li,False,False
+77,3,▁annen,143558,7,13, annen,False,False
+77,4,in,473,13,15,in,False,False
+77,5,▁çocuklar,223400,15,24, çocuklar,False,False
+77,6,▁için,13911,24,29, için,False,False
+77,7,▁yaptığı,183178,29,37, yaptığı,False,False
+77,8,▁oyun,45784,37,42, oyun,False,True
+77,9,▁alan,48443,42,47, alan,False,True
+77,10,ının,26430,47,51,ının,False,True
+77,11,▁temel,142158,51,57, temel,False,True
+77,12,▁iş,24203,57,60, iş,False,True
+77,13,levi,94829,60,64,levi,False,True
+77,14,▁çocuk,46230,64,70, çocuk,False,True
+77,15,ları,14017,70,74,ları,False,True
+77,16,▁gü,18955,74,77, gü,False,True
+77,17,vende,82200,77,82,vende,False,True
+77,18,▁tut,7312,82,86, tut,True,False
+77,19,ma,534,86,88,ma,True,False
+77,20,▁idi,167227,88,92, idi,False,False
+77,21,.,235265,92,93,.,False,False
+78,0,Bil,42808,0,3,Bil,False,False
+78,1,sey,6720,3,6,sey,False,False
+78,2,dim,10537,6,9,dim,False,False
+78,3,▁senin,153923,9,15, senin,False,True
+78,4,▁iste,57336,15,20, iste,False,True
+78,5,ğ,235629,20,21,ğ,False,True
+78,6,inin,20613,21,25,inin,False,True
+78,7,▁bu,1222,25,28, bu,False,True
+78,8,▁kitabı,234689,28,35, kitabı,False,True
+78,9,▁bu,1222,35,38, bu,False,True
+78,10,▁kadar,33558,38,44, kadar,False,True
+78,11,▁hızlı,143050,44,50, hızlı,False,True
+78,12,▁yaz,38154,50,54, yaz,True,False
+78,13,ma,534,54,56,ma,True,False
+78,14,▁yön,87610,56,60, yön,False,False
+78,15,ünde,36522,60,64,ünde,False,False
+78,16,▁olduğunu,66960,64,73, olduğunu,False,False
+78,17,",",235269,73,74,",",False,False
+78,18,▁her,1070,74,78, her,False,False
+78,19,▁şey,39681,78,82, şey,False,False
+78,20,▁farklı,83282,82,89, farklı,False,False
+78,21,▁olur,71552,89,94, olur,False,False
+78,22,du,763,94,96,du,False,False
+78,23,.,235265,96,97,.,False,False
+79,0,Sen,13625,0,3,Sen,False,False
+79,1,in,473,3,5,in,False,False
+79,2,▁göz,59906,5,9, göz,False,False
+79,3,lerin,35696,9,14,lerin,False,False
+79,4,▁deli,3193,14,19, deli,False,False
+79,5,▁deli,3193,19,24, deli,False,False
+79,6,▁bak,10718,24,28, bak,False,False
+79,7,ıyor,33886,28,32,ıyor,False,False
+79,8,",",235269,32,33,",",False,False
+79,9,▁belli,101253,33,39, belli,False,False
+79,10,▁ki,7234,39,42, ki,False,False
+79,11,▁yap,18168,42,46, yap,False,True
+79,12,acağ,95316,46,50,acağ,False,True
+79,13,ın,4119,50,52,ın,False,True
+79,14,▁şey,39681,52,56, şey,False,True
+79,15,in,473,56,58,in,False,True
+79,16,▁amac,215199,58,63, amac,False,True
+79,17,ı,235405,63,64,ı,False,True
+79,18,▁kalp,215003,64,69, kalp,False,True
+79,19,▁kır,127525,69,73, kır,True,False
+79,20,ma,534,73,75,ma,True,False
+79,21,▁olacak,110686,75,82, olacak,False,False
+79,22,.,235265,82,83,.,False,False
+80,0,İ,236104,0,1,İ,False,True
+80,1,ste,2855,1,4,ste,False,True
+80,2,me,504,4,6,me,False,True
+80,3,yes,3276,6,9,yes,False,True
+80,4,in,473,9,11,in,False,True
+80,5,▁b,518,11,13, b,False,True
+80,6,enden,4309,13,18,enden,False,True
+80,7,▁göz,59906,18,22, göz,True,False
+80,8,leme,57626,22,26,leme,True,False
+80,9,▁f,517,26,28, f,False,False
+80,10,alan,9434,28,32,alan,False,False
+80,11,",",235269,32,33,",",False,False
+80,12,▁iş,24203,33,36, iş,False,False
+80,13,im,571,36,38,im,False,False
+80,14,▁baş,20074,38,42, baş,False,False
+80,15,ı,235405,42,43,ı,False,False
+80,16,mdan,225378,43,47,mdan,False,False
+80,17,▁aşk,152138,47,51, aşk,False,False
+80,18,ın,4119,51,53,ın,False,False
+80,19,.,235265,53,54,.,False,False
+81,0,Et,14849,0,2,Et,False,False
+81,1,ütte,85587,2,6,ütte,False,False
+81,2,▁öğren,88362,6,12, öğren,False,True
+81,3,cil,3608,12,15,cil,False,True
+81,4,erin,25963,15,19,erin,False,True
+81,5,▁en,659,19,22, en,False,True
+81,6,▁sık,76464,22,26, sık,False,True
+81,7,ıldığı,222358,26,32,ıldığı,False,True
+81,8,▁aktiv,32669,32,38, aktiv,False,True
+81,9,ite,725,38,41,ite,False,True
+81,10,▁soru,128092,41,46, soru,False,True
+81,11,▁çöz,112017,46,50, çöz,True,False
+81,12,me,504,50,52,me,True,False
+81,13,▁oldu,26330,52,57, oldu,False,False
+81,14,.,235265,57,58,.,False,False
+82,0,Mez,175199,0,3,Mez,False,False
+82,1,ran,827,3,6,ran,False,False
+82,2,ın,4119,6,8,ın,False,False
+82,3,▁merke,111307,8,14, merke,False,False
+82,4,ze,766,14,16,ze,False,False
+82,5,▁en,659,16,19, en,False,False
+82,6,▁uzak,118175,19,24, uzak,False,False
+82,7,▁yer,24917,24,28, yer,False,False
+82,8,inde,7411,28,32,inde,False,False
+82,9,▁yaş,31557,32,36, yaş,False,False
+82,10,ayan,26666,36,40,ayan,False,False
+82,11,▁öğren,88362,40,46, öğren,False,True
+82,12,cil,3608,46,49,cil,False,True
+82,13,erin,25963,49,53,erin,False,True
+82,14,▁bile,34983,53,58, bile,False,True
+82,15,▁mo,705,58,61, mo,False,True
+82,16,tivas,31258,61,66,tivas,False,True
+82,17,yon,14807,66,69,yon,False,True
+82,18,u,235261,69,70,u,False,True
+82,19,▁zengin,221594,70,77, zengin,False,True
+82,20,▁olma,133520,77,82, olma,True,False
+82,21,▁et,1008,82,85, et,False,False
+82,22,raf,5618,85,88,raf,False,False
+82,23,ında,15158,88,92,ında,False,False
+82,24,▁şek,44162,92,96, şek,False,False
+82,25,ill,936,96,99,ill,False,False
+82,26,eni,13184,99,102,eni,False,False
+82,27,yor,11311,102,105,yor,False,False
+82,28,.,235265,105,106,.,False,False
+83,0,Leonardo,114043,0,8,Leonardo,False,False
+83,1,',235303,8,9,',False,False
+83,2,nun,66802,9,12,nun,False,False
+83,3,▁çocuk,46230,12,18, çocuk,False,False
+83,4,lu,853,18,20,lu,False,False
+83,5,ğ,235629,20,21,ğ,False,False
+83,6,undan,105757,21,26,undan,False,False
+83,7,▁beri,123311,26,31, beri,False,False
+83,8,▁en,659,31,34, en,False,True
+83,9,▁gö,13096,34,37, gö,False,True
+83,10,ze,766,37,39,ze,False,True
+83,11,▁çar,218569,39,43, çar,False,True
+83,12,pan,3137,43,46,pan,False,True
+83,13,▁yet,3599,46,50, yet,False,True
+83,14,ene,1471,50,53,ene,False,True
+83,15,ği,16894,53,55,ği,False,True
+83,16,▁hey,29960,55,59, hey,False,True
+83,17,kel,8439,59,62,kel,False,True
+83,18,▁yap,18168,62,66, yap,True,False
+83,19,ma,534,66,68,ma,True,False
+83,20,▁idi,167227,68,72, idi,False,False
+83,21,.,235265,72,73,.,False,False
+85,0,Kal,27100,0,3,Kal,False,False
+85,1,p,235263,3,4,p,False,False
+85,2,▁kır,127525,4,8, kır,True,False
+85,3,ma,534,8,10,ma,True,False
+85,4,▁diye,71888,10,15, diye,False,True
+85,5,▁s,485,15,17, s,False,True
+85,6,item,884,17,21,item,False,True
+85,7,▁etti,65943,21,26, etti,False,True
+85,8,▁arkadaş,101967,26,34, arkadaş,False,False
+85,9,ına,23951,34,37,ına,False,False
+85,10,▁Ley,30382,37,41, Ley,False,False
+85,11,la,522,41,43,la,False,False
+85,12,.,235265,43,44,.,False,False
+92,0,Rü,204412,0,2,Rü,False,False
+92,1,yama,25650,2,6,yama,False,False
+92,2,▁g,583,6,8, g,False,False
+92,3,iren,30482,8,12,iren,False,False
+92,4,▁ak,5179,12,15, ak,False,False
+92,5,▁sak,20396,15,19, sak,False,False
+92,6,all,668,19,22,all,False,False
+92,7,ı,235405,22,23,ı,False,False
+92,8,▁de,581,23,26, de,False,False
+92,9,de,495,26,28,de,False,False
+92,10,▁bana,94982,28,33, bana,False,False
+92,11,▁bir,2843,33,37, bir,False,False
+92,12,▁sürü,155814,37,42, sürü,False,False
+92,13,▁şey,39681,42,46, şey,False,False
+92,14,▁söyledi,181124,46,54, söyledi,False,False
+92,15,▁ama,15625,54,58, ama,False,False
+92,16,▁zengin,221594,58,65, zengin,False,False
+92,17,▁olma,133520,65,70, olma,True,False
+92,18,▁diye,71888,70,75, diye,False,True
+92,19,▁uyar,206235,75,80, uyar,False,True
+92,20,ması,28030,80,84,ması,False,True
+92,21,▁en,659,84,87, en,False,False
+92,22,▁çok,24086,87,91, çok,False,False
+92,23,▁ak,5179,91,94, ak,False,False
+92,24,lı,7014,94,96,lı,False,False
+92,25,m,235262,96,97,m,False,False
+92,26,da,1335,97,99,da,False,False
+92,27,▁kalan,169836,99,105, kalan,False,False
+92,28,▁şey,39681,105,109, şey,False,False
+92,29,▁oldu,26330,109,114, oldu,False,False
+92,30,.,235265,114,115,.,False,False
+99,0,Ara,53425,0,3,Ara,True,False
+99,1,ştır,164709,3,7,ştır,True,False
+99,2,ma,534,7,9,ma,True,False
+99,3,▁AR,5509,9,12, AR,False,True
+99,4,GE,5352,12,14,GE,False,True
+99,5,',235303,14,15,',False,True
+99,6,nin,21270,15,18,nin,False,True
+99,7,▁anlam,98838,18,24, anlam,False,True
+99,8,ında,15158,24,28,ında,False,True
+99,9,▁geçi,174548,28,33, geçi,False,True
+99,10,yor,11311,33,36,yor,False,True
+99,11,▁diye,71888,36,41, diye,False,False
+99,12,▁bili,48838,41,46, bili,False,False
+99,13,yorum,44875,46,51,yorum,False,False
+99,14,.,235265,51,52,.,False,False
+104,0,Bil,42808,0,3,Bil,False,False
+104,1,miyorum,201769,3,10,miyorum,False,False
+104,2,▁ki,7234,10,13, ki,False,False
+104,3,",",235269,13,14,",",False,False
+104,4,▁karar,114508,14,20, karar,False,False
+104,5,▁verme,51356,20,26, verme,True,False
+104,6,▁onun,110179,26,31, onun,False,True
+104,7,▁için,13911,31,36, için,False,True
+104,8,▁bir,2843,36,40, bir,False,True
+104,9,▁önce,58691,40,45, önce,False,True
+104,10,lik,3871,45,48,lik,False,True
+104,11,▁mi,3236,48,51, mi,False,False
+104,12,▁acaba,72700,51,57, acaba,False,False
+104,13,?,235336,57,58,?,False,False
+111,0,Her,8274,0,3,Her,False,False
+111,1,▁şeyi,175051,3,8, şeyi,False,False
+111,2,▁düzen,94882,8,14, düzen,True,False
+111,3,leme,57626,14,18,leme,True,False
+111,4,",",235269,18,19,",",False,False
+111,5,▁sime,193993,19,24, sime,False,False
+111,6,tri,3380,24,27,tri,False,False
+111,7,▁hastal,111550,27,34, hastal,False,False
+111,8,ığı,33624,34,37,ığı,False,False
+111,9,",",235269,37,38,",",False,False
+111,10,▁aş,58304,38,41, aş,False,False
+111,11,ırı,92717,41,44,ırı,False,False
+111,12,▁temiz,97317,44,50, temiz,False,False
+111,13,lik,3871,50,53,lik,False,False
+111,14,;,235289,53,54,;,False,False
+111,15,▁bun,15907,54,58, bun,False,True
+111,16,lar,2596,58,61,lar,False,True
+111,17,▁da,1260,61,64, da,False,True
+111,18,▁bir,2843,64,68, bir,False,True
+111,19,er,475,68,70,er,False,True
+111,20,▁tak,1773,70,74, tak,False,True
+111,21,ıntı,122928,74,78,ıntı,False,True
+111,22,▁aslında,225002,78,86, aslında,False,False
+111,23,.,235265,86,87,.,False,False
+113,0,E,235291,0,1,E,False,False
+113,1,ğer,41295,1,4,ğer,False,False
+113,2,▁es,875,4,7, es,False,False
+113,3,naf,84920,7,10,naf,False,False
+113,4,ın,4119,10,12,ın,False,False
+113,5,▁öf,166933,12,15, öf,False,False
+113,6,kes,2207,15,18,kes,False,False
+113,7,ini,1904,18,21,ini,False,False
+113,8,▁üzerine,119926,21,29, üzerine,False,False
+113,9,▁çek,22591,29,33, çek,False,False
+113,10,mek,12289,33,36,mek,False,False
+113,11,▁is,603,36,39, is,False,False
+113,12,tem,686,39,42,tem,False,False
+113,13,iy,24179,42,44,iy,False,False
+113,14,ors,976,44,47,ors,False,False
+113,15,an,481,47,49,an,False,False
+113,16,▁sana,38277,49,54, sana,False,True
+113,17,▁nasi,56898,54,59, nasi,False,True
+113,18,hat,620,59,62,hat,False,True
+113,19,im,571,62,64,im,False,True
+113,20,▁belli,101253,64,70, belli,False,True
+113,21,▁can,798,70,74, can,False,True
+113,22,ım,8994,74,76,ım,False,True
+113,23,▁ev,2628,76,79, ev,False,True
+113,24,lad,4370,79,82,lad,False,True
+113,25,ım,8994,82,84,ım,False,True
+113,26,",",235269,84,85,",",False,True
+113,27,▁fiyat,66744,85,91, fiyat,False,True
+113,28,▁kır,127525,91,95, kır,True,False
+113,29,ma,534,95,97,ma,True,False
+113,30,.,235265,97,98,.,False,False
+114,0,B,235305,0,1,B,False,False
+114,1,ana,1577,1,4,ana,False,False
+114,2,▁bak,10718,4,8, bak,False,False
+114,3,▁mü,14702,8,11, mü,False,False
+114,4,dür,140595,11,14,dür,False,False
+114,5,▁müs,134148,14,18, müs,False,False
+114,6,ved,1366,18,21,ved,False,False
+114,7,desi,196267,21,25,desi,False,False
+114,8,",",235269,25,26,",",False,False
+114,9,▁Lenin,76092,26,32, Lenin,False,True
+114,10,▁hakkında,96882,32,41, hakkında,False,True
+114,11,▁i,496,41,43, i,False,True
+114,12,leri,13446,43,47,leri,False,True
+114,13,▁geri,88406,47,52, geri,False,True
+114,14,▁konuş,80781,52,58, konuş,True,False
+114,15,ma,534,58,60,ma,True,False
+114,16,!,235341,60,61,!,False,False
+115,0,İ,236104,0,1,İ,False,False
+115,1,ran,827,1,4,ran,False,False
+115,2,▁sava,189733,4,9, sava,False,False
+115,3,şı,25784,9,11,şı,False,False
+115,4,▁sadece,74295,11,18, sadece,False,False
+115,5,▁İ,16307,18,20, İ,False,False
+115,6,ran,827,20,23,ran,False,False
+115,7,’,235349,23,24,’,False,False
+115,8,a,235250,24,25,a,False,False
+115,9,▁karşı,61004,25,31, karşı,False,False
+115,10,▁değil,43303,31,37, değil,False,False
+115,11,▁bütün,123350,37,43, bütün,False,False
+115,12,▁insan,31514,43,49, insan,False,False
+115,13,lı,7014,49,51,lı,False,False
+115,14,ğa,70827,51,53,ğa,False,False
+115,15,▁karşı,61004,53,59, karşı,False,False
+115,16,▁aç,25727,59,62, aç,False,False
+115,17,ılmış,84604,62,67,ılmış,False,False
+115,18,▁bir,2843,67,71, bir,False,False
+115,19,▁savaş,142074,71,77, savaş,False,False
+115,20,ın,4119,77,79,ın,False,False
+115,21,▁ilk,53910,79,83, ilk,False,False
+115,22,▁cep,20125,83,87, cep,False,False
+115,23,he,480,87,89,he,False,False
+115,24,si,542,89,91,si,False,False
+115,25,",",235269,91,92,",",False,False
+115,26,▁Türkiye,86348,92,100, Türkiye,False,True
+115,27,',235303,100,101,',False,True
+115,28,yi,12636,101,103,yi,False,True
+115,29,▁bu,1222,103,106, bu,False,True
+115,30,▁sava,189733,106,111, sava,False,True
+115,31,şa,42897,111,113,şa,False,True
+115,32,▁taraf,22410,113,119, taraf,False,True
+115,33,▁ya,3965,119,122, ya,False,True
+115,34,▁da,1260,122,125, da,False,True
+115,35,▁dahil,79030,125,131, dahil,False,True
+115,36,▁etme,162154,131,136, etme,True,False
+115,37,.,235265,136,137,.,False,False
+117,0,M,235296,0,1,M,False,False
+117,1,illet,17081,1,6,illet,False,False
+117,2,▁el,822,6,9, el,False,False
+117,3,ine,622,9,12,ine,False,False
+117,4,▁bay,11405,12,16, bay,False,False
+117,5,rak,11375,16,19,rak,False,False
+117,6,▁ver,972,19,23, ver,False,False
+117,7,diy,48012,23,26,diy,False,False
+117,8,se,497,26,28,se,False,False
+117,9,▁o,493,28,30, o,False,True
+117,10,▁bay,11405,30,34, bay,False,True
+117,11,ra,506,34,36,ra,False,True
+117,12,ğı,13810,36,38,ğı,False,True
+117,13,▁bırak,110923,38,44, bırak,False,True
+117,14,may,9846,44,47,may,False,True
+117,15,ac,550,47,49,ac,False,True
+117,16,aks,11037,49,52,aks,False,True
+117,17,ın,4119,52,54,ın,False,True
+117,18,",",235269,54,55,",",False,True
+117,19,▁dö,34442,55,58, dö,False,True
+117,20,nek,13766,58,61,nek,False,True
+117,21,lik,3871,61,64,lik,False,True
+117,22,▁yap,18168,64,68, yap,True,False
+117,23,ma,534,68,70,ma,True,False
+117,24,▁mil,2658,70,74, mil,False,False
+117,25,letin,18782,74,79,letin,False,False
+117,26,▁sana,38277,79,84, sana,False,False
+117,27,▁en,659,84,87, en,False,False
+117,28,▁çok,24086,87,91, çok,False,False
+117,29,▁ihtiyac,174786,91,99, ihtiyac,False,False
+117,30,ı,235405,99,100,ı,False,False
+117,31,▁olan,29204,100,105, olan,False,False
+117,32,▁şu,98102,105,108, şu,False,False
+117,33,▁gün,34269,108,112, gün,False,False
+117,34,lerde,80976,112,117,lerde,False,False
+117,35,.,235265,117,118,.,False,False
+118,0,Ru,23293,0,2,Ru,False,False
+118,1,hi,544,2,4,hi,False,False
+118,2,▁Su,2021,4,7, Su,False,False
+118,3,’,235349,7,8,’,False,False
+118,4,nun,66802,8,11,nun,False,False
+118,5,▁en,659,11,14, en,False,False
+118,6,▁bil,10349,14,18, bil,False,False
+118,7,inen,5533,18,22,inen,False,False
+118,8,▁eser,118884,22,27, eser,False,False
+118,9,lerinden,135539,27,35,lerinden,False,False
+118,10,▁biri,67253,35,40, biri,False,False
+118,11,▁olan,29204,40,45, olan,False,False
+118,12,▁bu,1222,45,48, bu,False,False
+118,13,▁parça,127827,48,54, parça,False,False
+118,14,",",235269,54,55,",",False,False
+118,15,▁Gül,164115,55,59, Gül,False,False
+118,16,can,2189,59,62,can,False,False
+118,17,▁Al,1414,62,65, Al,False,False
+118,18,tan,8401,65,68,tan,False,False
+118,19,’,235349,68,69,’,False,False
+118,20,ın,4119,69,71,ın,False,False
+118,21,▁yeni,49254,71,76, yeni,False,False
+118,22,▁yorum,114440,76,82, yorum,False,False
+118,23,uyla,215085,82,86,uyla,False,False
+118,24,▁bugün,199668,86,92, bugün,False,False
+118,25,▁din,5540,92,96, din,False,False
+118,26,leyici,171564,96,102,leyici,False,False
+118,27,yle,1895,102,105,yle,False,False
+118,28,▁bul,6069,105,109, bul,False,False
+118,29,uş,42138,109,111,uş,False,False
+118,30,tu,765,111,113,tu,False,False
+118,31,",",235269,113,114,",",False,False
+118,32,▁din,5540,114,118, din,False,True
+118,33,leme,57626,118,122,leme,False,True
+118,34,▁fırs,228956,122,127, fırs,False,True
+118,35,at,482,127,129,at,False,True
+118,36,ını,13598,129,132,ını,False,True
+118,37,▁kaç,88097,132,136, kaç,True,False
+118,38,ır,8155,136,138,ır,True,False
+118,39,ma,534,138,140,ma,True,False
+118,40,!,235341,140,141,!,False,False
+119,0,Hal,15781,0,3,Hal,False,True
+119,1,ka,1161,3,5,ka,False,True
+119,2,▁y,597,5,7, y,False,True
+119,3,alan,9434,7,11,alan,False,True
+119,4,▁söyle,68417,11,17, söyle,False,True
+119,5,mek,12289,17,20,mek,False,True
+119,6,▁suç,189153,20,24, suç,False,True
+119,7,tur,9568,24,27,tur,False,True
+119,8,",",235269,27,28,",",False,True
+119,9,▁suç,189153,28,32, suç,False,True
+119,10,▁iş,24203,32,35, iş,True,False
+119,11,leme,57626,35,39,leme,True,False
+119,12,",",235269,39,40,",",False,False
+119,13,▁sen,3149,40,44, sen,False,False
+119,14,▁ah,9464,44,47, ah,False,False
+119,15,la,522,47,49,la,False,False
+119,16,ks,812,49,51,ks,False,False
+119,17,ız,10078,51,53,ız,False,False
+119,18,▁bir,2843,53,57, bir,False,False
+119,19,▁adam,45246,57,62, adam,False,False
+119,20,▁değ,30078,62,66, değ,False,False
+119,21,ils,1649,66,69,ils,False,False
+119,22,in,473,69,71,in,False,False
+119,23,.,235265,71,72,.,False,False
+121,0,Yok,158592,0,3,Yok,False,False
+121,1,▁solu,18175,3,8, solu,False,False
+121,2,can,2189,8,11,can,False,False
+121,3,▁ols,59397,11,15, ols,False,False
+121,4,am,563,15,17,am,False,False
+121,5,▁beni,82503,17,22, beni,False,False
+121,6,▁sever,3113,22,28, sever,False,False
+121,7,▁mis,2586,28,32, mis,False,False
+121,8,in,473,32,34,in,False,False
+121,9,",",235269,34,35,",",False,False
+121,10,▁yok,43885,35,39, yok,False,True
+121,11,▁,235248,39,40, ,False,True
+121,12,2,235284,40,41,2,False,True
+121,13,5,235308,41,42,5,False,True
+121,14,0,235276,42,43,0,False,True
+121,15,▁kilo,65962,43,48, kilo,False,True
+121,16,▁ols,59397,48,52, ols,False,True
+121,17,am,563,52,54,am,False,True
+121,18,▁beni,82503,54,59, beni,False,True
+121,19,▁beğ,213032,59,63, beğ,False,True
+121,20,en,479,63,65,en,False,True
+121,21,ir,616,65,67,ir,False,True
+121,22,▁mis,2586,67,71, mis,False,True
+121,23,in,473,71,73,in,False,True
+121,24,",",235269,73,74,",",False,True
+121,25,▁adam,45246,74,79, adam,False,True
+121,26,ı,235405,79,80,ı,False,True
+121,27,▁deli,3193,80,85, deli,True,False
+121,28,rt,2295,85,87,rt,True,False
+121,29,me,504,87,89,me,True,False
+121,30,▁E,637,89,91, E,False,False
+121,31,mine,5457,91,95,mine,False,False
+121,32,!,235341,95,96,!,False,False
+122,0,A,235280,0,1,A,False,False
+122,1,kade,45336,1,5,kade,False,False
+122,2,mis,1629,5,8,mis,False,False
+122,3,yen,10923,8,11,yen,False,False
+122,4,▁de,581,11,14, de,False,False
+122,5,diğ,46504,14,17,diğ,False,False
+122,6,in,473,17,19,in,False,False
+122,7,▁yaz,38154,19,23, yaz,False,True
+122,8,d,235258,23,24,d,False,True
+122,9,ığı,33624,24,27,ığı,False,True
+122,10,▁kadar,33558,27,33, kadar,False,True
+122,11,▁da,1260,33,36, da,False,True
+122,12,▁ok,4634,36,39, ok,False,True
+122,13,ur,525,39,41,ur,False,True
+122,14,",",235269,41,42,",",False,False
+122,15,▁oku,28724,42,46, oku,True,False
+122,16,ma,534,46,48,ma,True,False
+122,17,▁akade,168193,48,54, akade,False,False
+122,18,mis,1629,54,57,mis,False,False
+122,19,yen,10923,57,60,yen,False,False
+122,20,in,473,60,62,in,False,False
+122,21,▁en,659,62,65, en,False,False
+122,22,▁önemli,76336,65,72, önemli,False,False
+122,23,▁iş,24203,72,75, iş,False,False
+122,24,lerinden,135539,75,83,lerinden,False,False
+122,25,▁biri,67253,83,88, biri,False,False
+122,26,dir,3729,88,91,dir,False,False
+122,27,.,235265,91,92,.,False,False
+123,0,AR,1028,0,2,AR,False,True
+123,1,GE,5352,2,4,GE,False,True
+123,2,',235303,4,5,',False,True
+123,3,nin,21270,5,8,nin,False,True
+123,4,▁anlam,98838,8,14, anlam,False,True
+123,5,ında,15158,14,18,ında,False,True
+123,6,▁ben,2578,18,22, ben,False,False
+123,7,▁araştır,230531,22,30, araştır,True,False
+123,8,ma,534,30,32,ma,True,False
+123,9,▁var,2706,32,36, var,False,False
+123,10,▁diye,71888,36,41, diye,False,False
+123,11,▁bili,48838,41,46, bili,False,False
+123,12,yorum,44875,46,51,yorum,False,False
+123,13,",",235269,51,52,",",False,False
+123,14,▁yanlış,185873,52,59, yanlış,False,False
+123,15,▁m,519,59,61, m,False,False
+123,16,ıy,59118,61,63,ıy,False,False
+123,17,ım,8994,63,65,ım,False,False
+123,18,?,235336,65,66,?,False,False
+124,0,Er,9602,0,2,Er,False,False
+124,1,tesi,158166,2,6,tesi,False,False
+124,2,▁gün,34269,6,10, gün,False,False
+124,3,ün,5268,10,12,ün,False,False
+124,4,▁gaze,30964,12,17, gaze,False,False
+124,5,te,488,17,19,te,False,False
+124,6,▁man,916,19,23, man,False,False
+124,7,ş,235517,23,24,ş,False,False
+124,8,et,523,24,26,et,False,False
+124,9,leri,13446,26,30,leri,False,False
+124,10,▁göz,59906,30,34, göz,False,False
+124,11,ünün,125046,34,38,ünün,False,False
+124,12,▁ön,28778,38,41, ön,False,False
+124,13,üne,39039,41,44,üne,False,False
+124,14,▁gel,7232,44,48, gel,False,False
+124,15,meye,49363,48,52,meye,False,False
+124,16,▁baş,20074,52,56, baş,False,False
+124,17,lam,4246,56,59,lam,False,False
+124,18,ıştı,157003,59,63,ıştı,False,False
+124,19,▁bile,34983,63,68, bile,False,False
+124,20,:,235292,68,69,:,False,False
+124,21,▁Karab,209447,69,75, Karab,False,True
+124,22,atak,66614,75,79,atak,False,True
+124,23,▁d,499,79,81, d,False,True
+124,24,avas,12868,81,85,avas,False,True
+124,25,ında,15158,85,89,ında,False,True
+124,26,▁dud,70020,89,93, dud,False,True
+124,27,ak,738,93,95,ak,False,True
+124,28,ları,14017,95,99,ları,False,True
+124,29,▁uç,176623,99,102, uç,False,True
+124,30,uk,1458,102,104,uk,False,True
+124,31,latan,102907,104,109,latan,False,True
+124,32,▁geliş,107741,109,115, geliş,True,False
+124,33,me,504,115,117,me,True,False
+125,0,Hü,190969,0,2,Hü,False,False
+125,1,rm,1126,2,4,rm,False,False
+125,2,üz,22938,4,6,üz,False,False
+125,3,',235303,6,7,',False,False
+125,4,de,495,7,9,de,False,False
+125,5,▁sat,3173,9,13, sat,False,False
+125,6,ran,827,13,16,ran,False,False
+125,7,ç,235409,16,17,ç,False,False
+125,8,:,235292,17,18,:,False,False
+125,9,▁Ab,2524,18,21, Ab,False,True
+125,10,luka,174649,21,25,luka,False,True
+125,11,▁mı,70680,25,28, mı,False,True
+125,12,▁anlaş,181749,28,34, anlaş,True,False
+125,13,ma,534,34,36,ma,True,False
+125,14,▁mı,70680,36,39, mı,False,False
+125,15,?,235336,39,40,?,False,False
+126,0,Top,4870,0,3,Top,False,False
+126,1,lum,35565,3,6,lum,False,False
+126,2,da,1335,6,8,da,False,False
+126,3,▁görd,137079,8,13, görd,False,False
+126,4,üğ,75487,13,15,üğ,False,False
+126,5,ün,5268,15,17,ün,False,False
+126,6,▁tüm,62661,17,21, tüm,False,False
+126,7,▁bu,1222,21,24, bu,False,True
+126,8,▁hastal,111550,24,31, hastal,False,True
+126,9,ık,10622,31,33,ık,False,True
+126,10,ların,31860,33,38,ların,False,True
+126,11,▁sebe,73166,38,43, sebe,False,True
+126,12,bi,2479,43,45,bi,False,True
+126,13,▁belli,101253,45,51, belli,False,True
+126,14,",",235269,51,52,",",False,False
+126,15,▁genç,118282,52,57, genç,False,False
+126,16,▁adam,45246,57,62, adam,False,False
+126,17,:,235292,62,63,:,False,False
+126,18,▁yo,10931,63,66, yo,True,False
+126,19,z,235306,66,67,z,True,False
+126,20,laş,30823,67,70,laş,True,False
+126,21,ma,534,70,72,ma,True,False
+126,22,.,235265,72,73,.,False,False
+128,0,Ev,9158,0,2,Ev,False,True
+128,1,▁arkadaş,101967,2,10, arkadaş,False,True
+128,2,ım,8994,10,12,ım,False,True
+128,3,ın,4119,12,14,ın,False,True
+128,4,▁kat,14982,14,18, kat,False,True
+128,5,ıl,15788,18,20,ıl,False,True
+128,6,mayı,80346,20,24,mayı,False,True
+128,7,▁düş,38030,24,28, düş,False,True
+128,8,ünd,13308,28,31,ünd,False,True
+128,9,üğü,157861,31,34,üğü,False,True
+128,10,▁yarış,214691,34,40, yarış,False,True
+128,11,▁yüksek,79960,40,47, yüksek,False,False
+128,12,▁at,696,47,50, at,True,False
+128,13,lama,10450,50,54,lama,True,False
+128,14,▁ama,15625,54,58, ama,False,False
+128,15,▁konten,126156,58,65, konten,False,False
+128,16,jan,9098,65,68,jan,False,False
+128,17,▁durum,64147,68,74, durum,False,False
+128,18,una,3722,74,77,una,False,False
+128,19,▁göre,52644,77,82, göre,False,False
+128,20,▁marat,204153,82,88, marat,False,False
+128,21,ona,2977,88,91,ona,False,False
+128,22,▁da,1260,91,94, da,False,False
+128,23,▁yazı,230035,94,99, yazı,False,False
+128,24,labilir,66172,99,106,labilir,False,False
+128,25,.,235265,106,107,.,False,False
+129,0,S,235277,0,1,S,False,False
+129,1,ı,235405,1,2,ı,False,False
+129,2,nav,4849,2,5,nav,False,False
+129,3,▁sırasında,176375,5,15, sırasında,False,False
+129,4,▁dikkat,106572,15,22, dikkat,False,False
+129,5,▁et,1008,22,25, et,False,False
+129,6,men,631,25,28,men,False,False
+129,7,▁gereken,139866,28,36, gereken,False,False
+129,8,▁en,659,36,39, en,False,True
+129,9,▁önemli,76336,39,46, önemli,False,True
+129,10,▁yas,100458,46,50, yas,False,True
+129,11,ak,738,50,52,ak,False,True
+129,12,▁telefon,27999,52,60, telefon,False,False
+129,13,▁kullan,31505,60,67, kullan,True,False
+129,14,ma,534,67,69,ma,True,False
+129,15,",",235269,69,70,",",False,False
+129,16,▁bak,10718,70,74, bak,False,False
+129,17,▁at,696,74,77, at,False,False
+129,18,ılı,17300,77,80,ılı,False,False
+129,19,rs,2446,80,82,rs,False,False
+129,20,ın,4119,82,84,ın,False,False
+129,21,▁ot,5317,84,87, ot,False,False
+129,22,urum,144509,87,91,urum,False,False
+129,23,un,549,91,93,un,False,False
+129,24,▁ort,88943,93,97, ort,False,False
+129,25,asında,200861,97,103,asında,False,False
+129,26,",",235269,103,104,",",False,False
+129,27,▁ona,58407,104,108, ona,False,False
+129,28,▁göre,52644,108,113, göre,False,False
+129,29,!,235341,113,114,!,False,False
+130,0,California,39003,0,10,California,False,False
+130,1,',235303,10,11,',False,False
+130,2,ya,2194,11,13,ya,False,False
+130,3,▁o,493,13,15, o,False,False
+130,4,▁dönem,172595,15,21, dönem,False,False
+130,5,de,495,21,23,de,False,False
+130,6,▁yapılan,132341,23,31, yapılan,False,False
+130,7,▁gö,13096,31,34, gö,False,True
+130,8,ç,235409,34,35,ç,False,True
+130,9,ün,5268,35,37,ün,False,True
+130,10,▁ard,53732,37,41, ard,False,True
+130,11,ındaki,73374,41,47,ındaki,False,True
+130,12,▁fur,10749,47,51, fur,False,True
+130,13,ya,2194,51,53,ya,False,True
+130,14,▁altın,96426,53,59, altın,False,False
+130,15,▁ara,20535,59,63, ara,True,False
+130,16,ma,534,63,65,ma,True,False
+130,17,▁da,1260,65,68, da,False,False
+130,18,▁olsa,158192,68,73, olsa,False,False
+130,19,▁n,552,73,75, n,False,False
+130,20,üf,127389,75,77,üf,False,False
+130,21,ust,739,77,80,ust,False,False
+130,22,aki,7794,80,83,aki,False,False
+130,23,▁hareket,120402,83,91, hareket,False,False
+130,24,li,515,91,93,li,False,False
+130,25,liğ,67267,93,96,liğ,False,False
+130,26,in,473,96,98,in,False,False
+130,27,▁kült,167900,98,103, kült,False,False
+130,28,ü,235387,103,104,ü,False,False
+130,29,rel,3680,104,107,rel,False,False
+130,30,▁sebe,73166,107,112, sebe,False,False
+130,31,pler,18826,112,116,pler,False,False
+130,32,ini,1904,116,119,ini,False,False
+130,33,▁de,581,119,122, de,False,False
+130,34,▁göz,59906,122,126, göz,False,False
+130,35,▁ön,28778,126,129, ön,False,False
+130,36,ünde,36522,129,133,ünde,False,False
+130,37,▁bul,6069,133,137, bul,False,False
+130,38,undur,211673,137,142,undur,False,False
+130,39,mak,7746,142,145,mak,False,False
+130,40,▁zor,40419,145,149, zor,False,False
+130,41,unday,6522,149,154,unday,False,False
+130,42,ız,10078,154,156,ız,False,False
+130,43,.,235265,156,157,.,False,False
+131,0,Ok,5558,0,2,Ok,False,True
+131,1,ulun,234089,2,6,ulun,False,True
+131,2,▁g,583,6,8, g,False,True
+131,3,ünd,13308,8,11,ünd,False,True
+131,4,emi,31545,11,14,emi,False,True
+131,5,▁bu,1222,14,17, bu,False,True
+131,6,▁ar,813,17,20, ar,False,True
+131,7,alar,14454,20,24,alar,False,True
+131,8,▁ul,11977,24,27, ul,False,True
+131,9,usal,13202,27,31,usal,False,True
+131,10,▁sı,37529,31,34, sı,False,True
+131,11,nav,4849,34,37,nav,False,True
+131,12,lar,2596,37,40,lar,False,True
+131,13,",",235269,40,41,",",False,True
+131,14,▁grip,24937,41,46, grip,False,True
+131,15,▁aş,58304,46,49, aş,False,True
+131,16,ısı,35065,49,52,ısı,False,True
+131,17,▁olma,133520,52,57, olma,True,False
+131,18,▁ve,1408,57,60, ve,False,False
+131,19,▁yeni,49254,60,65, yeni,False,False
+131,20,▁spor,17371,65,70, spor,False,False
+131,21,▁salonu,139623,70,77, salonu,False,False
+131,22,▁inşa,192816,77,82, inşa,False,False
+131,23,atı,119316,82,85,atı,False,False
+131,24,.,235265,85,86,.,False,False
+132,0,Nev,208230,0,3,Nev,False,False
+132,1,zat,38370,3,6,zat,False,False
+132,2,▁Ev,7012,6,9, Ev,False,False
+132,3,rim,7918,9,12,rim,False,False
+132,4,▁Ö,12911,12,14, Ö,False,False
+132,5,nal,2529,14,17,nal,False,False
+132,6,",",235269,17,18,",",False,False
+132,7,▁Türkiye,86348,18,26, Türkiye,False,True
+132,8,▁Si,5297,26,29, Si,False,True
+132,9,yasi,135245,29,33,yasi,False,True
+132,10,▁Tari,86743,33,38, Tari,False,True
+132,11,h,235259,38,39,h,False,True
+132,12,inde,7411,39,43,inde,False,True
+132,13,▁Sah,39557,43,47, Sah,False,True
+132,14,te,488,47,49,te,False,True
+132,15,▁U,752,49,51, U,False,True
+132,16,mut,8927,51,54,mut,False,True
+132,17,▁Ü,11354,54,56, Ü,True,False
+132,18,ret,672,56,59,ret,True,False
+132,19,me,504,59,61,me,True,False
+132,20,▁yaz,38154,61,65, yaz,False,False
+132,21,ısı,35065,65,68,ısı,False,False
+132,22,yla,32679,68,71,yla,False,False
+132,23,▁der,1188,71,75, der,False,False
+132,24,gim,111377,75,78,gim,False,False
+132,25,izin,47690,78,82,izin,False,False
+132,26,▁Nisan,162182,82,88, Nisan,False,False
+132,27,▁say,1931,88,92, say,False,False
+132,28,ısında,193635,92,98,ısında,False,False
+132,29,.,235265,98,99,.,False,False
+133,0,Ul,16516,0,2,Ul,False,True
+133,1,us,553,2,4,us,False,True
+133,2,umuz,224065,4,8,umuz,False,True
+133,3,un,549,8,10,un,False,True
+133,4,▁bu,1222,10,13, bu,False,True
+133,5,▁yü,90320,13,16, yü,False,True
+133,6,zy,1930,16,18,zy,False,True
+133,7,ıld,38644,18,21,ıld,False,True
+133,8,aki,7794,21,24,aki,False,True
+133,9,▁ve,1408,24,27, ve,False,True
+133,10,bas,6903,27,30,bas,False,True
+133,11,ı,235405,30,31,ı,False,True
+133,12,▁güç,86714,31,35, güç,False,False
+133,13,ler,1595,35,38,ler,False,False
+133,14,▁bir,2843,38,42, bir,False,False
+133,15,liği,57090,42,46,liği,False,False
+133,16,▁sor,4245,46,50, sor,False,False
+133,17,unu,26644,50,53,unu,False,False
+133,18,▁ve,1408,53,56, ve,False,False
+133,19,▁otor,110047,56,61, otor,True,False
+133,20,iter,2417,61,65,iter,True,False
+133,21,leş,63440,65,68,leş,True,False
+133,22,me,504,68,70,me,True,False
+133,23,▁ol,6989,70,73, ol,False,False
+133,24,malı,65537,73,77,malı,False,False
+133,25,.,235265,77,78,.,False,False
+134,0,Bir,16388,0,3,Bir,False,True
+134,1,▁sonra,37258,3,9, sonra,False,True
+134,2,ki,1661,9,11,ki,False,True
+134,3,▁ot,5317,11,14, ot,False,True
+134,4,urum,144509,14,18,urum,False,True
+134,5,un,549,18,20,un,False,True
+134,6,▁baş,20074,20,24, baş,False,True
+134,7,lığı,64941,24,28,lığı,False,True
+134,8,▁',777,28,30, ',False,False
+134,9,Y,235342,30,31,Y,False,False
+134,10,üz,22938,31,33,üz,False,False
+134,11,▁yıl,64423,33,37, yıl,False,False
+134,12,▁önce,58691,37,42, önce,False,False
+134,13,",",235269,42,43,",",False,False
+134,14,▁yüz,48209,43,47, yüz,False,False
+134,15,▁yıl,64423,47,51, yıl,False,False
+134,16,▁sonra,37258,51,57, sonra,False,False
+134,17,:,235292,57,58,:,False,False
+134,18,▁Gele,58834,58,63, Gele,False,False
+134,19,ceği,134294,63,67,ceği,False,False
+134,20,▁tartış,225689,67,74, tartış,True,False
+134,21,ma,534,74,76,ma,True,False
+134,22,',235303,76,77,',False,False
+135,0,1,235274,0,1,1,False,True
+135,1,6,235318,1,2,6,False,True
+135,2,5,235308,2,3,5,False,True
+135,3,.,235265,3,4,.,False,True
+135,4,▁say,1931,4,8, say,False,True
+135,5,ının,26430,8,12,ının,False,True
+135,6,▁giriş,181385,12,18, giriş,False,True
+135,7,▁yaz,38154,18,22, yaz,False,True
+135,8,ısı,35065,22,25,ısı,False,True
+135,9,",",235269,25,26,",",False,True
+135,10,▁Ay,14630,26,29, Ay,False,True
+135,11,demir,154858,29,34,demir,False,True
+135,12,▁G,653,34,36, G,False,True
+135,13,üler,31552,36,40,üler,False,True
+135,14,▁im,1485,40,43, im,False,True
+135,15,zas,9131,43,46,zas,False,True
+135,16,ıyla,105584,46,50,ıyla,False,True
+135,17,▁Ul,9974,50,53, Ul,False,True
+135,18,usal,13202,53,57,usal,False,True
+135,19,▁Sor,20735,57,61, Sor,False,True
+135,20,unda,10693,61,65,unda,False,True
+135,21,▁Gün,90151,65,69, Gün,True,False
+135,22,cel,2445,69,72,cel,True,False
+135,23,leme,57626,72,76,leme,True,False
+135,24,",",235269,76,77,",",False,False
+135,25,▁ul,11977,77,80, ul,False,False
+135,26,usal,13202,80,84,usal,False,False
+135,27,▁sor,4245,84,88, sor,False,False
+135,28,unun,78404,88,92,unun,False,False
+135,29,▁abc,20079,92,96, abc,False,False
+135,30,’,235349,96,97,’,False,False
+135,31,sine,156660,97,101,sine,False,False
+135,32,",",235269,101,102,",",False,False
+135,33,▁T,584,102,104, T,False,False
+135,34,KP,41890,104,106,KP,False,False
+135,35,’,235349,106,107,’,False,False
+135,36,nin,21270,107,110,nin,False,False
+135,37,▁Gelen,158481,110,116, Gelen,False,False
+135,38,ek,1286,116,118,ek,False,False
+135,39,▁hareket,120402,118,126, hareket,False,False
+135,40,inden,13961,126,131,inden,False,False
+135,41,▁beri,123311,131,136, beri,False,False
+135,42,▁benim,99702,136,142, benim,False,False
+135,43,se,497,142,144,se,False,False
+135,44,diği,79328,144,148,diği,False,False
+135,45,▁ve,1408,148,151, ve,False,False
+135,46,▁bugün,199668,151,157, bugün,False,False
+135,47,▁doğ,38012,157,161, doğ,False,False
+135,48,rul,51693,161,164,rul,False,False
+135,49,anan,18929,164,168,anan,False,False
+135,50,▁poz,18838,168,172, poz,False,False
+135,51,isyon,148134,172,177,isyon,False,False
+135,52,unun,78404,177,181,unun,False,False
+135,53,▁temel,142158,181,187, temel,False,False
+135,54,▁uns,6042,187,191, uns,False,False
+135,55,urlar,171706,191,196,urlar,False,False
+135,56,ına,23951,196,199,ına,False,False
+135,57,▁ayr,114312,199,203, ayr,False,False
+135,58,ıldı,89464,203,207,ıldı,False,False
+135,59,.,235265,207,208,.,False,False

@@ -1,1 +1,53 @@
-
+row_id,reason,sentence
+2,alignment_failed,"Gidiyordu ama bizim kiracı da daire dönüşlerinde, ev arama sen yine de!"
+5,alignment_failed,"Eskişehir’de öğrenciyken herkes aynı şeyi söylerdi: Ev toplama, değmez."
+6,alignment_failed,"Frenkçe kitapların yazarı, genç kadına dedi ki: Evlilik öncesi çıkma biriyle sakın!"
+9,alignment_failed,Başladı şaşkın genç kıza nasihatler vermeye: Evlilik öncesi biriyle çıkma!
+10,alignment_failed,"Adabı muaşerete çok dikkat ederdi, bu yüzden sahaftan aldığı Frenkçe kitapta yazanları emir bellemişti: Evlilik öncesi biriyle çıkma!"
+12,alignment_failed,Aboneye ulaştırılan mesaj diyor ki takma bu yeni SIM kartını.
+15,alignment_failed,"İlişkilerle ilgili görgü kuralları şu konuları içerir: evlilik hazırlığı, ailelerin tanışması, nişan bozma."
+16,alignment_failed,"Abone SIM kart hakkında uyarılıyor, taşıma deniyor kendisine, hem yazılı hem de sözlü olarak."
+20,alignment_failed,"İngilizce ve Fransızca konuşuyor, dünyayı gezmiş, görmüş geçirmiş, kulak vermiş 'Olma sen diğerleri gibi!' diyenlere."
+30,alignment_failed,"Gök haritamızda Kova neredeyse, orada bağları koparma isteği, başkaldırı, yenilikçi ve ilerici bir tutum görülecektir."
+32,alignment_failed,ARGE faaliyetleri sonucu yaratılan tahmini katma değer 60 milyon dolar civarında.
+33,alignment_failed,"Merak etme hiç, kısa tutacağım ."
+34,alignment_failed,"Merak etme aşkın doğasında vardır, seven merak eder."
+40,alignment_failed,"""Koşma yavrum, terleyeceksin!"" Ah şu büyükleriniz! Bir türlü vazgeçmezler sizleri uyarmaktan..."
+41,alignment_failed,Koşma yavrum bunun adı.
+42,alignment_failed,"Koşma yavrum, hece ölçüsüyle yazılır ve aşık edebiyatında bir nazım biçimidir."
+43,alignment_failed,"Hece ölçüsüyle yazılır, koşma yavrum bu nazım biçiminin adı."
+44,alignment_failed,"Bir memnuniyet, bir teşekkür ki sorma gitsin."
+45,alignment_failed,Kombi bozulunca 500 lira çıkma durumunda kaldı.
+49,alignment_failed,"Rahat bırak şu kızı artık, elleşme durup durup!"
+52,alignment_failed,"Nerede güzel görsen ona çevirme yüzünü, bizim ilde cana kıyan beyler var."
+57,alignment_failed,"Her dilbere verme artık meyil, lüzumu yok bunun"
+61,alignment_failed,"Bu kadar yürekten çağırma beni, yoksa niyeti bozup yanına geleceğim."
+65,alignment_failed,"Oktar'a verilen öğüt netti, 'Mehdilik iddiasında bulunma!'"
+73,alignment_failed,"Emlakçının yapacağı iş belli, ev gösterme!"
+84,alignment_failed,"Bu konuyu araştırma, Ali'nin aldığı emirlerden sadece birisiydi."
+86,alignment_failed,"Gözleri dolu dolu olmuştu, 'Kalp kırma nolursun artık!' diye fısıldadı dişlerinin arasından."
+87,alignment_failed,Parkta otururken gözüne çarptı 'Çöp dökme' uyarısı.
+88,alignment_failed,"Burayı gözleme artık, senin işin başka!"
+89,alignment_failed,Kocasının gözü dışarıda olduğu için 'Mustafa'nın başının bağını çözme nolur' diye fısıldadı Mehmet'in arkasından.
+90,alignment_failed,Duvarlara yazı yazma yoksa seni döverim.
+91,alignment_failed,Bu soruları çözme de gör gününü!
+93,alignment_failed,"Heykel yapma da ne yaparsan yap bu kille, başka ricam yok senden."
+94,alignment_failed,Gölge etme başka ihsan istemem.
+95,alignment_failed,Karar verme sadece ilk izlenime bakıp.
+96,alignment_failed,Kimseyle paylaşma eğer kaynağını kontrol etmediysen.
+97,alignment_failed,Kapı çarpma arabadan inerken.
+98,alignment_failed,"Kırıtarak yürüme, adam gibi davran."
+100,alignment_failed,Karısını aldatma adamın aklındaki tek düşünceydi.
+101,alignment_failed,Güçsüzleri savunma idi Ayşe'nin yegane dileği.
+102,alignment_failed,"Bu konuyu araştırma, Ali'nin duyduğu önergelerden biriydi."
+103,alignment_failed,Çöp dökme konuşulan düzenlemelerden biri.
+105,alignment_failed,Sırları paylaşma bu grubun kuruluş amaçlarından biridir.
+106,alignment_failed,"Açık konuşma, dürüstlük, doğruluk..."
+107,alignment_failed,"Ofiste hep söylenen şeylerin listesi: Geç kalma, verimlilik, motivasyon."
+108,alignment_failed,"Okulda hızlı okuma, yarışma hazırlığı gibi ekstra kurslar vardı."
+109,alignment_failed,Bağlama kültürümüzün önemli donelerinden biridir.
+110,alignment_failed,"Bana mor yazma, Ayşe'ye de kilim."
+112,alignment_failed,"Okul yolu gözleme, yaşlı gözler, buruşmuş eller... Kaygılı anneannelerin ortak özellikleriydi."
+116,alignment_failed,"Kaçmıyorsan ara seçimden, elini aç, kaçak güreşme, en geniş coğrafyada yapalım bu seçimi."
+120,alignment_failed,"İbrahim Tatlıses hastaneden taburcu olduktan sonra vasiyetini açıklayacakmış, ölme eşeğim..."
+127,alignment_failed,Bu hastalığın bu kadar yayılmasında etkili olan faktörlerden biri de insanların pis bir huyu: Umuma açık yerlerde her yüzeyi elleme.

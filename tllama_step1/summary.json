@@ -1,7 +1,9 @@
 {
   "model_name": "ytu-ce-cosmos/Turkish-Llama-8b-Instruct-v0.1",
+  "data_file": "data/negnom_data_1to1.xlsx",
   "n_examples_total": 136,
-  "n_examples_kept": 136,
-  "n_examples_skipped": 0,
-  "n_prefixes": 3245
+  "n_examples_kept": 84,
+  "n_examples_skipped": 52,
+  "n_prefixes": 2186,
+  "n_location_mismatches": 0
 }

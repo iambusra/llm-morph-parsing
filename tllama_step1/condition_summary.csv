@@ -1,0 +1,9 @@
+label,type,location,location_matches,n_examples
+negation,semantic,after,True,4
+negation,semantic,before,True,9
+negation,syntactic,after,True,8
+negation,syntactic,before,True,15
+nominalizer,semantic,after,True,6
+nominalizer,semantic,before,True,14
+nominalizer,syntactic,after,True,12
+nominalizer,syntactic,before,True,16
