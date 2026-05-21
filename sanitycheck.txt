@@ -1,0 +1,411 @@
+MECH INTERP PROJECT - STEP 3 (CURRENT / FINAL RUN)
+
+Goal:
+Investigate whether LLMs process ambiguity incrementally using Turkish ambiguity data.
+
+Models:
+
+* Qwen2.5-14B-Instruct
+* Turkish-Gemma-9b-T1
+* Turkish-Llama-8b-Instruct-v0.1
+
+Current pipeline status:
+Step1 → complete
+Step2 → complete
+Step3 → complete (NEW OFFICIAL VERSION)
+
+Dataset:
+
+* 136 total examples
+* 84 retained
+* 52 skipped
+* Prefix-based extraction
+* Ambiguous forms preserved exactly as surface forms
+* No lemma substitution
+
+Step 2 outputs:
+Each model contains:
+
+* endpoint_vectors.npy
+* ambiguity_vectors.npy
+* prefix_metadata.csv
+* summary.json
+
+endpoint vectors:
+
+* always available
+
+ambiguity vectors:
+
+* partially available
+* missing represented as NaNs
+* filtered using ambiguity_vector_available
+
+Step 3 (NEW OFFICIAL VERSION)
+Major changes from older versions:
+
+1. repeated train/dev splits
+    * n_splits = 5
+2. evaluation set fixed by definition
+    * only train/dev changes
+3. row-level leakage prevention
+    * train row_ids removed from eval
+4. split-specific exports
+    * split_X_train.csv
+    * split_X_dev.csv
+    * split_X_eval.csv
+5. extensive sanity checks
+6. layer_summary.csv
+7. summary.json
+8. sanity_check.json
+
+Probe setup:
+Classifier:
+
+* LogisticRegression
+* liblinear
+* class_weight=“balanced”
+* max_iter=5000
+
+Scaling:
+
+* StandardScaler
+
+Split:
+
+* StratifiedGroupKFold
+* grouping variable:
+    row_id
+
+Evaluation:
+
+* balanced accuracy
+
+Targets:
+
+* interpretation
+* cue_type
+
+Probe runs executed per model:
+
+A.
+endpoint_interpretation
+
+vector_type:
+endpoint
+
+target:
+interpretation
+
+train:
+both
+
+test:
+both
+
+scope:
+all_checkpoints
+
+⸻
+
+B.
+ambiguity_interpretation
+
+vector_type:
+ambiguity
+
+target:
+interpretation
+
+train:
+both
+
+test:
+both
+
+scope:
+all_checkpoints
+
+⸻
+
+C.
+endpoint_cuetype
+
+vector_type:
+endpoint
+
+target:
+cue_type
+
+train:
+both
+
+test:
+both
+
+scope:
+all_checkpoints
+
+⸻
+
+D.
+ambiguity_cuetype
+
+vector_type:
+ambiguity
+
+target:
+cue_type
+
+train:
+both
+
+test:
+both
+
+scope:
+all_checkpoints
+
+⸻
+
+E.
+endpoint_syntactic_to_semantic
+
+vector:
+endpoint
+
+target:
+interpretation
+
+train:
+syntactic
+
+test:
+semantic
+
+scope:
+full_sentence
+
+⸻
+
+F.
+endpoint_semantic_to_syntactic
+
+vector:
+endpoint
+
+target:
+interpretation
+
+train:
+semantic
+
+test:
+syntactic
+
+scope:
+full_sentence
+
+⸻
+
+G.
+ambiguity_syntactic_to_semantic
+
+vector:
+ambiguity
+
+target:
+interpretation
+
+train:
+syntactic
+
+test:
+semantic
+
+scope:
+full_sentence
+
+⸻
+
+H.
+ambiguity_semantic_to_syntactic
+
+vector:
+ambiguity
+
+target:
+interpretation
+
+train:
+semantic
+
+test:
+syntactic
+
+scope:
+full_sentence
+
+Research Questions (FINAL)
+
+RQ1.
+What kind of parser/processor are LLMs?
+
+Do they:
+
+* wait for complete information?
+* commit incrementally?
+* revise?
+* maintain uncertainty?
+
+RQ2.
+Do LLMs represent ambiguity?
+
+When ambiguity appears:
+
+* collapse immediately?
+* maintain alternatives?
+* revise later?
+
+RQ3.
+What happens as information becomes available?
+
+Track representation:
+
+* before cue
+* after cue
+* after ambiguity
+* sentence completion
+
+RQ4.
+Do models retain cue information or abstract away from it?
+
+Do they:
+
+* preserve cue identity?
+* compress into interpretation?
+
+RQ5.
+Do cue types share representational structure?
+
+Cross-cue transfer:
+
+* syntactic → semantic
+* semantic → syntactic
+
+Observed result (important)
+
+Qwen ambiguity_interpretation:
+
+Train:
+
+* before
+* full_sentence
+
+Eval:
+
+* all checkpoints
+
+Peak:
+layer 28
+balanced accuracy ≈ 0.622
+
+Strong asymmetry discovered:
+
+post_ambiguity_pre_cue:
+very high confidence
+
+other stages:
+more uncertain
+
+Need careful plotting before interpretation.
+
+PLOTTING PLAN (NEXT)
+
+One script only.
+
+Plots:
+
+Interpretation across layers
+endpoint only
+full_sentence only
+
+Interpretation across layers
+ambiguity only
+milestones only
+
+before:
+ambiguity_onset
+disambiguation_zone
+full_sentence
+
+after:
+disambiguation_zone
+ambiguity_onset
+full_sentence
+
+ignore tiny intermediate checkpoints
+
+Cue type across layers
+endpoint
+full_sentence
+
+Cue type across layers
+ambiguity milestones
+
+same milestone rules
+
+Uncertainty across time
+interpretation only
+best layers only
+
+Non-negotiable plotting rules:
+
+NEVER invent stages.
+
+Read actual stage values.
+
+NO giant master dataframe.
+
+Aggregate inside each model first.
+
+Use explicit columns.
+
+Never column positions.
+
+Aggregate order:
+
+model
+→ split
+→ layer
+→ condition
+→ average
+
+Never raw-row averaging.
+
+Cross-model:
+use relative layer
+
+layer_relative =
+layer / (n_layers - 1)
+
+Never average raw layer numbers.
+
+Save audit CSVs.
+
+Every plot gets:
+
+* source csv
+* counts csv
+
+First plots are diagnostic.
+
+No publication plots first.
+
+Ignore tiny stages only by explicit threshold and save exclusion logs.
+
+No silent filtering.
+
+Individual trajectories later.
+Not now.
+

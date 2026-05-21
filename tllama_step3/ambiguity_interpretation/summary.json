@@ -1,0 +1,16 @@
+{
+  "step2_dir": "tllama_step2",
+  "output_dir": "tllama_step3/ambiguity_interpretation",
+  "vector_type": "ambiguity",
+  "probe_target": "interpretation",
+  "train_cue_type": "both",
+  "test_cue_type": "both",
+  "test_scope": "all_checkpoints",
+  "test_size": 0.25,
+  "random_state": 42,
+  "n_splits": 5,
+  "n_layers": 32,
+  "peak_layer": 23,
+  "peak_mean_eval_balanced_accuracy": 0.6172503306342618,
+  "n_collapsed_layers_95_total": 0
+}

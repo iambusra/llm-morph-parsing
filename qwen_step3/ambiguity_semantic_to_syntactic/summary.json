@@ -1,0 +1,16 @@
+{
+  "step2_dir": "qwen_step2",
+  "output_dir": "qwen_step3/ambiguity_semantic_to_syntactic",
+  "vector_type": "ambiguity",
+  "probe_target": "interpretation",
+  "train_cue_type": "semantic",
+  "test_cue_type": "syntactic",
+  "test_scope": "full_sentence",
+  "test_size": 0.25,
+  "random_state": 42,
+  "n_splits": 5,
+  "n_layers": 48,
+  "peak_layer": 45,
+  "peak_mean_eval_balanced_accuracy": 0.7444099378881988,
+  "n_collapsed_layers_95_total": 0
+}

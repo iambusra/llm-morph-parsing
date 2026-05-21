@@ -1,0 +1,357 @@
+{
+  "step2_dir": "tllama_step2",
+  "output_dir": "tllama_step3/ambiguity_semantic_to_syntactic",
+  "vector_type": "ambiguity",
+  "probe_target": "interpretation",
+  "train_cue_type": "semantic",
+  "test_cue_type": "syntactic",
+  "test_scope": "full_sentence",
+  "test_size": 0.25,
+  "random_state": 42,
+  "n_splits": 5,
+  "n_layers": 32,
+  "candidate_audits": {
+    "train_candidates": {
+      "name": "train_candidates",
+      "n_rows": 23,
+      "n_sentences": 23,
+      "stage_counts": {
+        "full_sentence": 23
+      },
+      "location_counts": {
+        "before": 23
+      },
+      "type_counts": {
+        "semantic": 23
+      },
+      "label_counts": {
+        "nominalizer": 14,
+        "negation": 9
+      }
+    },
+    "eval_candidates": {
+      "name": "eval_candidates",
+      "n_rows": 51,
+      "n_sentences": 51,
+      "stage_counts": {
+        "full_sentence": 51
+      },
+      "location_counts": {
+        "before": 31,
+        "after": 20
+      },
+      "type_counts": {
+        "syntactic": 51
+      },
+      "label_counts": {
+        "nominalizer": 28,
+        "negation": 23
+      }
+    }
+  },
+  "split_audits": [
+    {
+      "split": 0,
+      "split_seed": 42,
+      "train": {
+        "name": "train",
+        "n_rows": 17,
+        "n_sentences": 17,
+        "stage_counts": {
+          "full_sentence": 17
+        },
+        "location_counts": {
+          "before": 17
+        },
+        "type_counts": {
+          "semantic": 17
+        },
+        "label_counts": {
+          "nominalizer": 10,
+          "negation": 7
+        }
+      },
+      "dev": {
+        "name": "dev",
+        "n_rows": 6,
+        "n_sentences": 6,
+        "stage_counts": {
+          "full_sentence": 6
+        },
+        "location_counts": {
+          "before": 6
+        },
+        "type_counts": {
+          "semantic": 6
+        },
+        "label_counts": {
+          "nominalizer": 4,
+          "negation": 2
+        }
+      },
+      "eval": {
+        "name": "eval",
+        "n_rows": 51,
+        "n_sentences": 51,
+        "stage_counts": {
+          "full_sentence": 51
+        },
+        "location_counts": {
+          "before": 31,
+          "after": 20
+        },
+        "type_counts": {
+          "syntactic": 51
+        },
+        "label_counts": {
+          "nominalizer": 28,
+          "negation": 23
+        }
+      }
+    },
+    {
+      "split": 1,
+      "split_seed": 43,
+      "train": {
+        "name": "train",
+        "n_rows": 17,
+        "n_sentences": 17,
+        "stage_counts": {
+          "full_sentence": 17
+        },
+        "location_counts": {
+          "before": 17
+        },
+        "type_counts": {
+          "semantic": 17
+        },
+        "label_counts": {
+          "nominalizer": 10,
+          "negation": 7
+        }
+      },
+      "dev": {
+        "name": "dev",
+        "n_rows": 6,
+        "n_sentences": 6,
+        "stage_counts": {
+          "full_sentence": 6
+        },
+        "location_counts": {
+          "before": 6
+        },
+        "type_counts": {
+          "semantic": 6
+        },
+        "label_counts": {
+          "nominalizer": 4,
+          "negation": 2
+        }
+      },
+      "eval": {
+        "name": "eval",
+        "n_rows": 51,
+        "n_sentences": 51,
+        "stage_counts": {
+          "full_sentence": 51
+        },
+        "location_counts": {
+          "before": 31,
+          "after": 20
+        },
+        "type_counts": {
+          "syntactic": 51
+        },
+        "label_counts": {
+          "nominalizer": 28,
+          "negation": 23
+        }
+      }
+    },
+    {
+      "split": 2,
+      "split_seed": 44,
+      "train": {
+        "name": "train",
+        "n_rows": 17,
+        "n_sentences": 17,
+        "stage_counts": {
+          "full_sentence": 17
+        },
+        "location_counts": {
+          "before": 17
+        },
+        "type_counts": {
+          "semantic": 17
+        },
+        "label_counts": {
+          "nominalizer": 11,
+          "negation": 6
+        }
+      },
+      "dev": {
+        "name": "dev",
+        "n_rows": 6,
+        "n_sentences": 6,
+        "stage_counts": {
+          "full_sentence": 6
+        },
+        "location_counts": {
+          "before": 6
+        },
+        "type_counts": {
+          "semantic": 6
+        },
+        "label_counts": {
+          "negation": 3,
+          "nominalizer": 3
+        }
+      },
+      "eval": {
+        "name": "eval",
+        "n_rows": 51,
+        "n_sentences": 51,
+        "stage_counts": {
+          "full_sentence": 51
+        },
+        "location_counts": {
+          "before": 31,
+          "after": 20
+        },
+        "type_counts": {
+          "syntactic": 51
+        },
+        "label_counts": {
+          "nominalizer": 28,
+          "negation": 23
+        }
+      }
+    },
+    {
+      "split": 3,
+      "split_seed": 45,
+      "train": {
+        "name": "train",
+        "n_rows": 17,
+        "n_sentences": 17,
+        "stage_counts": {
+          "full_sentence": 17
+        },
+        "location_counts": {
+          "before": 17
+        },
+        "type_counts": {
+          "semantic": 17
+        },
+        "label_counts": {
+          "nominalizer": 9,
+          "negation": 8
+        }
+      },
+      "dev": {
+        "name": "dev",
+        "n_rows": 6,
+        "n_sentences": 6,
+        "stage_counts": {
+          "full_sentence": 6
+        },
+        "location_counts": {
+          "before": 6
+        },
+        "type_counts": {
+          "semantic": 6
+        },
+        "label_counts": {
+          "nominalizer": 5,
+          "negation": 1
+        }
+      },
+      "eval": {
+        "name": "eval",
+        "n_rows": 51,
+        "n_sentences": 51,
+        "stage_counts": {
+          "full_sentence": 51
+        },
+        "location_counts": {
+          "before": 31,
+          "after": 20
+        },
+        "type_counts": {
+          "syntactic": 51
+        },
+        "label_counts": {
+          "nominalizer": 28,
+          "negation": 23
+        }
+      }
+    },
+    {
+      "split": 4,
+      "split_seed": 46,
+      "train": {
+        "name": "train",
+        "n_rows": 18,
+        "n_sentences": 18,
+        "stage_counts": {
+          "full_sentence": 18
+        },
+        "location_counts": {
+          "before": 18
+        },
+        "type_counts": {
+          "semantic": 18
+        },
+        "label_counts": {
+          "nominalizer": 11,
+          "negation": 7
+        }
+      },
+      "dev": {
+        "name": "dev",
+        "n_rows": 5,
+        "n_sentences": 5,
+        "stage_counts": {
+          "full_sentence": 5
+        },
+        "location_counts": {
+          "before": 5
+        },
+        "type_counts": {
+          "semantic": 5
+        },
+        "label_counts": {
+          "nominalizer": 3,
+          "negation": 2
+        }
+      },
+      "eval": {
+        "name": "eval",
+        "n_rows": 51,
+        "n_sentences": 51,
+        "stage_counts": {
+          "full_sentence": 51
+        },
+        "location_counts": {
+          "before": 31,
+          "after": 20
+        },
+        "type_counts": {
+          "syntactic": 51
+        },
+        "label_counts": {
+          "nominalizer": 28,
+          "negation": 23
+        }
+      }
+    }
+  ],
+  "output_checks": {
+    "probe_scores_rows": 160,
+    "probe_predictions_rows": 8160,
+    "expected_score_rows": 160,
+    "n_collapsed_layers_95_total": 0,
+    "peak_layer": 23,
+    "peak_mean_eval_balanced_accuracy": 0.7012422360248447
+  }
+}

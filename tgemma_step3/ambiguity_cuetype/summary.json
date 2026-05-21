@@ -1,0 +1,16 @@
+{
+  "step2_dir": "tgemma_step2",
+  "output_dir": "tgemma_step3/ambiguity_cuetype",
+  "vector_type": "ambiguity",
+  "probe_target": "cue_type",
+  "train_cue_type": "both",
+  "test_cue_type": "both",
+  "test_scope": "all_checkpoints",
+  "test_size": 0.25,
+  "random_state": 42,
+  "n_splits": 5,
+  "n_layers": 42,
+  "peak_layer": 30,
+  "peak_mean_eval_balanced_accuracy": 0.5775428205368547,
+  "n_collapsed_layers_95_total": 0
+}

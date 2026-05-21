@@ -1,0 +1,16 @@
+{
+  "step2_dir": "tllama_step2",
+  "output_dir": "tllama_step3/endpoint_semantic_to_syntactic",
+  "vector_type": "endpoint",
+  "probe_target": "interpretation",
+  "train_cue_type": "semantic",
+  "test_cue_type": "syntactic",
+  "test_scope": "full_sentence",
+  "test_size": 0.25,
+  "random_state": 42,
+  "n_splits": 5,
+  "n_layers": 32,
+  "peak_layer": 8,
+  "peak_mean_eval_balanced_accuracy": 0.7360248447204969,
+  "n_collapsed_layers_95_total": 0
+}
